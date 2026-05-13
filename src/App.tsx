@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
 import Home from './pages/Home';
@@ -12,7 +12,7 @@ const BASE = import.meta.env.BASE_URL;
 
 export default function App() {
   return (
-    <BrowserRouter basename={BASE}>
+    <HashRouter>
       <div className="min-h-screen flex flex-col">
         <Nav />
         <main className="flex-1">
@@ -40,6 +40,6 @@ export default function App() {
         </main>
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
