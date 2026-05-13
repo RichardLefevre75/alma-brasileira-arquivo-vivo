@@ -1,0 +1,3767 @@
+[
+  {
+    "id": "ipe-amarelo",
+    "name": "Ipê-amarelo",
+    "otherNames": [
+      "Aipê",
+      "Ipê-ouro",
+      "Pau-d’arco-amarelo"
+    ],
+    "scientific": "Handroanthus albus (Cham.) Mattos, 1948",
+    "family": "Bignoniaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Sul, Sudeste, Centro-Oeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Anual com orgânico",
+    "soilType": "Arenoso e bem drenado",
+    "height": "até 30 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Caduca",
+    "uses": [
+      "Ornamental",
+      "Madeireiro",
+      "Paisagismo",
+      "Reflorestamento",
+      "Apicultura"
+    ],
+    "tags": [
+      "nativa",
+      "ornamental",
+      "caducifólia",
+      "floração",
+      "cerrado"
+    ],
+    "description": "O Ipê-amarelo, cientificamente conhecido como Handroanthus albus, é uma árvore nativa do Brasil, famosa por sua exuberante floração amarela que anuncia a chegada da primavera. Adapta-se bem a climas tropicais e subtropicais, sendo encontrado principalmente no Cerrado, Mata Atlântica e Floresta de Araucária. Sua madeira é valorizada na construção civil e a árvore é amplamente utilizada no paisagismo e reflorestamento, além de atrair polinizadores.",
+    "culturalNote": "Símbolo de resiliência e esperança, o Ipê-amarelo é um ícone da flora brasileira.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Handroanthus_albus",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "ipe-roxo",
+    "name": "Ipê-roxo",
+    "otherNames": [
+      "Piúva",
+      "Pau-d'arco-roxo",
+      "Ipê-una"
+    ],
+    "scientific": "Handroanthus impetiginosus (Mart. ex DC.) Mattos",
+    "family": "Bignoniaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica, Cerrado",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Regular nos primeiros anos, tolerante à seca após estabelecido",
+    "fertilizing": "Anual com NPK equilibrado ou orgânico",
+    "soilType": "Arenoso, úmido e bem drenado",
+    "height": "15-30 m",
+    "flowerColor": "Roxo, rosa, lilás",
+    "leafType": "Composta palmada, caducifólia",
+    "uses": [
+      "Medicinal",
+      "Madeireiro",
+      "Ornamental",
+      "Paisagismo",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "ornamental",
+      "medicinal",
+      "caducifólia",
+      "floração"
+    ],
+    "description": "O Ipê-roxo, Handroanthus impetiginosus, é uma árvore nativa da América do Sul, amplamente distribuída no Brasil. Conhecido por sua exuberante floração roxa, rosa ou lilás, é uma espécie caducifólia que perde as folhas antes de florescer. Sua madeira é valorizada como madeira de lei e a casca possui propriedades medicinais, sendo utilizada na medicina popular. É uma árvore importante para o paisagismo e para a recuperação de áreas degradadas.",
+    "culturalNote": "O Ipê-roxo é valorizado por sua beleza e propriedades medicinais, sendo um símbolo de resistência e cura.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Handroanthus_impetiginosus",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "ipe-branco",
+    "name": "Ipê-branco",
+    "otherNames": [
+      "Pau-d'arco",
+      "Ipê-do-cerrado"
+    ],
+    "scientific": "Tabebuia roseoalba (Ridl.) Sandwith 1954",
+    "family": "Bignoniaceae",
+    "type": "Árvore",
+    "biome": "Cerrado, Pantanal",
+    "region": "Todo o Brasil",
+    "climate": "Tropical, Subtropical",
+    "light": "Sol pleno",
+    "watering": "Semanal (tolerante à seca após estabelecido)",
+    "fertilizing": "Trimestral com orgânico (nos primeiros anos)",
+    "soilType": "Humoso e fértil, bem drenado",
+    "height": "7-16 m",
+    "flowerColor": "Branco",
+    "leafType": "Composta trifoliolada, decídua",
+    "uses": [
+      "Ornamental",
+      "Madeireiro",
+      "Paisagismo",
+      "Reflorestamento",
+      "Apicultura"
+    ],
+    "tags": [
+      "nativa",
+      "ornamental",
+      "decídua",
+      "floração",
+      "cerrado",
+      "pantanal"
+    ],
+    "description": "O Ipê-branco, Tabebuia roseoalba, é uma árvore brasileira conhecida por sua espetacular floração branca que ocorre em um curto período. Nativa do Cerrado e Pantanal, adapta-se bem a climas tropicais e subtropicais, preferindo sol pleno. Sua madeira é valorizada na construção civil e a árvore é amplamente utilizada no paisagismo e reflorestamento, especialmente em terrenos secos e pedregosos. É também uma importante fonte de néctar para abelhas.",
+    "culturalNote": "Conhecida como 'planta do mel', é símbolo nacional no Brasil e Argentina.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Ip%C3%AA-branco",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "aroeira-do-sertao",
+    "name": "Aroeira-do-sertão",
+    "otherNames": [
+      "Urundeúva",
+      "Aroeira-preta",
+      "Aroeira-do-campo"
+    ],
+    "scientific": "Myracrodruon urundeuva Allemão",
+    "family": "Anacardiaceae",
+    "type": "Árvore",
+    "biome": "Caatinga, Cerrado",
+    "region": "Nordeste, Centro-Oeste, Sudeste (até SP), Sul (PR)",
+    "climate": "Semiárido, Tropical",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita (após estabelecida)",
+    "soilType": "Terrenos secos e rochosos, bem drenados",
+    "height": "8-20 m (até 30 m)",
+    "flowerColor": "Branco-esverdeado (insignificante)",
+    "leafType": "Composta pinada, decídua",
+    "uses": [
+      "Medicinal",
+      "Madeireiro",
+      "Apicultura",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "medicinal",
+      "madeira-de-lei",
+      "caatinga",
+      "resistente-seca",
+      "ameaçada"
+    ],
+    "description": "A Aroeira-do-sertão, Myracrodruon urundeuva, é uma árvore nativa do Brasil, encontrada principalmente na Caatinga e no Cerrado. Conhecida por sua madeira extremamente dura e resistente, é amplamente utilizada na construção civil. Possui também importantes propriedades medicinais, sendo usada na medicina popular como anti-inflamatório e cicatrizante. É uma espécie decídua e heliófita, adaptada a solos secos e rochosos.",
+    "culturalNote": "Sua madeira é símbolo de resistência e durabilidade, e sua casca é valorizada na medicina popular.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Urunde%C3%BAva",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "aroeira-pimenteira",
+    "name": "Aroeira-pimenteira",
+    "otherNames": [
+      "Aroeira-vermelha",
+      "Pimenta-rosa",
+      "Aroeira-mansa"
+    ],
+    "scientific": "Schinus terebinthifolia Raddi",
+    "family": "Anacardiaceae",
+    "type": "Arbusto",
+    "biome": "Caatinga, Cerrado, Mata Atlântica, Pampa, Restinga",
+    "region": "Todo o Brasil",
+    "climate": "Tropical, Subtropical",
+    "light": "Sol pleno",
+    "watering": "Semanal (tolerante à seca após estabelecida)",
+    "fertilizing": "Não necessita",
+    "soilType": "Adaptável a diversos solos, bem drenado",
+    "height": "7-10 m",
+    "flowerColor": "Branco, amarelo-esverdeado",
+    "leafType": "Composta pinada",
+    "uses": [
+      "Medicinal",
+      "Alimentar",
+      "Paisagismo",
+      "Apicultura"
+    ],
+    "tags": [
+      "nativa",
+      "medicinal",
+      "frutífera",
+      "ornamental",
+      "resistente"
+    ],
+    "description": "A Aroeira-pimenteira, Schinus terebinthifolia, é um arbusto ou pequena árvore nativa da América do Sul, amplamente distribuída no Brasil. Conhecida por suas pequenas bagas vermelhas, utilizadas como 'pimenta-rosa', e por suas propriedades medicinais, especialmente anti-inflamatórias e cicatrizantes. Adapta-se a diversos biomas e tipos de solo, sendo uma planta rústica e de fácil adaptação, também valorizada no paisagismo.",
+    "culturalNote": "A 'pimenta-rosa' da aroeira é um tempero valorizado, e a planta é usada na medicina popular.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Aroeira-vermelha",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "gameleira",
+    "name": "Gameleira",
+    "otherNames": [
+      "Figueira-branca",
+      "Mata-pau"
+    ],
+    "scientific": "Ficus gomelleira Kunth & C.D.Bouché",
+    "family": "Moraceae",
+    "type": "Árvore",
+    "biome": "Amazônia, Caatinga, Cerrado, Mata Atlântica",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Mensal com NPK equilibrado",
+    "soilType": "Humoso e fértil, bem drenado",
+    "height": "8-18 m",
+    "flowerColor": "Insignificante",
+    "leafType": "Simples, coriácea",
+    "uses": [
+      "Medicinal",
+      "Artesanato",
+      "Sombra",
+      "Sagrado/Ritual",
+      "Alimentar"
+    ],
+    "tags": [
+      "nativa",
+      "medicinal",
+      "sagrada",
+      "sombra",
+      "epífita"
+    ],
+    "description": "A Gameleira, Ficus gomelleira, é uma árvore nativa do Brasil, conhecida por seu porte imponente e por ser uma hemiepífita, podendo iniciar seu crescimento sobre outras árvores. Possui raízes fortes e uma copa ampla, sendo importante para a fauna local. Sua madeira é tradicionalmente utilizada na confecção de gamelas e seu látex possui propriedades medicinais. A gameleira também possui um significado cultural e espiritual em algumas tradições afro-brasileiras.",
+    "culturalNote": "Árvore de grande significado cultural e espiritual, usada em rituais afro-brasileiros e para confecção de gamelas.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Gameleira",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "jatoba",
+    "name": "Jatobá",
+    "otherNames": [
+      "Jatobá-verdadeiro",
+      "Jatobazeiro",
+      "Jatobã"
+    ],
+    "scientific": "Hymenaea courbaril L.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Amazônia, Caatinga, Cerrado, Mata Atlântica, Pantanal",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal (tolerante à seca após estabelecido)",
+    "fertilizing": "Anual com orgânico",
+    "soilType": "Profundo, bem drenado, fértil",
+    "height": "até 40 m",
+    "flowerColor": "Branco-creme",
+    "leafType": "Composta por 2 folíolos, semidecídua, coriácea",
+    "uses": [
+      "Medicinal",
+      "Alimentar",
+      "Madeireiro",
+      "Sagrado/Ritual",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "medicinal",
+      "madeireiro",
+      "frutífera",
+      "sagrada"
+    ],
+    "description": "O Jatobá, Hymenaea courbaril, é uma imponente árvore nativa das Américas, amplamente distribuída no Brasil em diversos biomas como Amazônia, Caatinga, Cerrado, Mata Atlântica e Pantanal. Conhecido por sua madeira de alta qualidade, é também valorizado por seus frutos comestíveis e propriedades medicinais, sendo utilizado na medicina popular. É uma espécie de grande importância ecológica e cultural, adaptada a climas tropicais e que prefere sol pleno e solos férteis.",
+    "culturalNote": "Considerado sagrado por povos indígenas, o Jatobá é símbolo de força e equilíbrio mental.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Jatob%C3%A1",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "buriti",
+    "name": "Buriti",
+    "otherNames": [
+      "Miriti",
+      "Palmeira-dos-brejos",
+      "Carandá-guaçu"
+    ],
+    "scientific": "Mauritia flexuosa L.f.",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Amazônia, Cerrado, Pantanal, Caatinga",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Diário (planta de áreas alagáveis)",
+    "fertilizing": "Não necessita (em ambiente natural)",
+    "soilType": "Úmido, argiloso, áreas alagáveis",
+    "height": "até 30 m",
+    "flowerColor": "Amarelo (inflorescência)",
+    "leafType": "Palmada, grande",
+    "uses": [
+      "Alimentar",
+      "Artesanato",
+      "Medicinal",
+      "Paisagismo",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "palmeira",
+      "medicinal",
+      "artesanato",
+      "bioindicador"
+    ],
+    "description": "O Buriti, Mauritia flexuosa, é uma palmeira majestosa nativa da América do Sul, amplamente distribuída no Brasil, especialmente em áreas úmidas e alagáveis como veredas. Seus frutos são ricos em vitaminas A, B e C, cálcio, ferro e proteínas, sendo consumidos in natura ou transformados em diversos produtos. Além do valor alimentar, o buriti é uma fonte de fibras para artesanato e seu óleo possui propriedades medicinais. É um importante bioindicador de ecossistemas e possui grande relevância ecológica e cultural.",
+    "culturalNote": "Conhecido como a \"árvore da vida\" em algumas regiões, é fonte de alimento, artesanato e medicina.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Buriti",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "pequi",
+    "name": "Pequi",
+    "otherNames": [
+      "Pequizeiro",
+      "Piqui",
+      "Piquiá"
+    ],
+    "scientific": "Caryocar brasiliense Cambess.",
+    "family": "Caryocaraceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Centro-Oeste, Sudeste (MG, SP), Nordeste (BA, PI, CE)",
+    "climate": "Tropical, Semiárido",
+    "light": "Sol pleno",
+    "watering": "Semanal (tolerante à seca após estabelecido)",
+    "fertilizing": "Anual com orgânico",
+    "soilType": "Bem drenado, profundo, fértil",
+    "height": "6-10 m",
+    "flowerColor": "Amarelo-claro",
+    "leafType": "Trifoliada, tomentosa",
+    "uses": [
+      "Alimentar",
+      "Medicinal",
+      "Cosmético",
+      "Madeireiro",
+      "Biodiesel"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "cerrado",
+      "culinária",
+      "medicinal"
+    ],
+    "description": "O Pequi, Caryocar brasiliense, é uma árvore nativa do Cerrado brasileiro, conhecida por seu fruto de sabor e aroma marcantes. O fruto é amplamente utilizado na culinária regional, especialmente em Minas Gerais, e seu óleo possui propriedades medicinais e cosméticas. A árvore é de porte médio, com folhas trifoliadas e flores amarelas. É uma espécie de grande importância cultural e econômica para as comunidades do Cerrado.",
+    "culturalNote": "Símbolo da culinária do Cerrado, o pequi é amado e odiado por seu sabor único e espinhos.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Pequi",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "cajueiro",
+    "name": "Cajueiro",
+    "otherNames": [
+      "Acaju",
+      "Cajuil",
+      "Caju-manso"
+    ],
+    "scientific": "Anacardium occidentale L.",
+    "family": "Anacardiaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica, Caatinga, Cerrado",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal (tolerante à seca)",
+    "fertilizing": "Não necessita (após estabelecida)",
+    "soilType": "Bem drenado, arenoso",
+    "height": "4-12 m (até 20 m)",
+    "flowerColor": "Rosa",
+    "leafType": "Simples, obovada, coriácea",
+    "uses": [
+      "Alimentar",
+      "Medicinal",
+      "Madeireiro",
+      "Apicultura",
+      "Cosmético"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "medicinal",
+      "culinária",
+      "exportação"
+    ],
+    "description": "O Cajueiro, Anacardium occidentale, é uma árvore nativa do Nordeste do Brasil, conhecida mundialmente por seu fruto, a castanha de caju, e seu pseudofruto, o caju. Possui uma copa tortuosa e pode atingir até 20 metros de altura. Além de seu valor alimentar, o cajueiro é utilizado na medicina popular, na indústria madeireira e cosmética. É uma planta de grande importância econômica e cultural para o Brasil.",
+    "culturalNote": "Símbolo do Nordeste brasileiro, o caju é apreciado por seu sabor e versatilidade.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Cajueiro",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "umbu",
+    "name": "Umbu",
+    "otherNames": [
+      "Imbu",
+      "Brazil plum",
+      "Jique"
+    ],
+    "scientific": "Spondias tuberosa Arruda",
+    "family": "Anacardiaceae",
+    "type": "Árvore",
+    "biome": "Caatinga",
+    "region": "Nordeste",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Semanal (primeiros anos), tolerante à seca",
+    "fertilizing": "Ajustada ao solo, orgânica recomendada",
+    "soilType": "Arenoso, bem drenado e fértil",
+    "height": "até 7 m",
+    "flowerColor": "Branco",
+    "leafType": "Caduca",
+    "uses": [
+      "Alimentar",
+      "Sombra",
+      "Apicultura",
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "resistente",
+      "caatinga",
+      "nordeste"
+    ],
+    "description": "O umbuzeiro, também conhecido como imbuzeiro, é uma árvore de pequeno porte nativa do semiárido nordestino brasileiro. Sua notável capacidade de armazenar água em suas raízes e tubérculos a torna um símbolo de resistência e vida na Caatinga. Seus frutos, o umbu, são muito apreciados in natura e na culinária regional, além de suas folhas e raízes terem usos medicinais. A planta também oferece sombra e néctar para abelhas, contribuindo para a apicultura local.",
+    "culturalNote": "Conhecido como a 'árvore sagrada do sertão' por Euclides da Cunha, símbolo de resistência no Nordeste.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Umbuzeiro",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "embauba",
+    "name": "Embaúba",
+    "otherNames": [
+      "Árvore-da-preguiça",
+      "Imbaúba",
+      "Umbaúba"
+    ],
+    "scientific": "Cecropia pachystachya Trécul",
+    "family": "Urticaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Regular",
+    "fertilizing": "Não necessita",
+    "soilType": "Bem drenado, fértil",
+    "height": "até 30 m",
+    "flowerColor": "Esbranquiçado",
+    "leafType": "Palmatilobada",
+    "uses": [
+      "Medicinal",
+      "Alimentar",
+      "Reflorestamento",
+      "Sombra",
+      "Artesanato"
+    ],
+    "tags": [
+      "nativa",
+      "pioneira",
+      "mata-atlântica",
+      "medicinal",
+      "simbiose"
+    ],
+    "description": "A Embaúba (gênero Cecropia) é uma árvore pioneira de rápido crescimento, característica de áreas de floresta tropical e subtropical no Brasil. Reconhecida por seu tronco oco e folhas grandes e palmatilobadas, desempenha um papel crucial na recuperação de áreas degradadas da Mata Atlântica. Seus frutos são uma importante fonte de alimento para a fauna, especialmente aves, e a planta vive em simbiose com formigas do gênero Azteca, que a protegem de herbívoros. Além de seu valor ecológico, a embaúba possui usos medicinais tradicionais.",
+    "culturalNote": "Conhecida por sua simbiose com formigas e por ser uma \"árvore restaurante\" para aves.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Emba%C3%BAba_(%C3%A1rvore)",
+    "imageCredit": "Wikimedia Commons / Ernani Zimmermann / CC BY-SA 3.0"
+  },
+  {
+    "id": "imburana-de-cheiro",
+    "name": "Imburana-de-cheiro",
+    "otherNames": [
+      "Cumaru-nordestino",
+      "Amburana",
+      "Cerejeira"
+    ],
+    "scientific": "Amburana cearensis (Allemão) A.C.Sm.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Caatinga",
+    "region": "Nordeste, Centro-Oeste",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Tolerante à seca",
+    "fertilizing": "Não necessita (em condições naturais)",
+    "soilType": "Bem drenado, tolerante a solos rasos",
+    "height": "6-30 m",
+    "flowerColor": "Branco-amarelada",
+    "leafType": "Composta imparipinada",
+    "uses": [
+      "Medicinal",
+      "Madeireiro",
+      "Perfumaria",
+      "Artesanato",
+      "Sagrado/Ritual"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "medicinal",
+      "madeira",
+      "aromatica"
+    ],
+    "description": "A Imburana-de-cheiro, também conhecida como Cumaru-nordestino, é uma árvore nativa dos biomas de Caatinga e Cerrado do Nordeste brasileiro, podendo atingir até 30 metros de altura. É valorizada por sua madeira aromática e por suas propriedades medicinais, especialmente no tratamento de problemas respiratórios, sendo utilizada por povos indígenas há séculos. Sua casca libera cumarina, substância com aroma característico. É uma espécie resistente à seca e adaptada a solos bem drenados.",
+    "culturalNote": "Com grande importância medicinal e cultural para povos indígenas do Nordeste brasileiro.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Cumaru-nordestino",
+    "imageCredit": "Wikimedia Commons / Rapper Ouriço / CC BY-SA 3.0"
+  },
+  {
+    "id": "erva-mate",
+    "name": "Erva-mate",
+    "otherNames": [
+      "Mate",
+      "Congonha"
+    ],
+    "scientific": "Ilex paraguariensis A.St.-Hil.",
+    "family": "Aquifoliaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Sul do Brasil",
+    "climate": "Subtropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Regular",
+    "fertilizing": "Mensal com NPK equilibrado",
+    "soilType": "Profundo, bem arejado e bem drenado",
+    "height": "6-15 m",
+    "flowerColor": "Branco",
+    "leafType": "Coriácea perene",
+    "uses": [
+      "Alimentar",
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "alimentar",
+      "medicinal",
+      "subtropical",
+      "cultural"
+    ],
+    "description": "A Erva-mate (Ilex paraguariensis) é uma árvore nativa da região subtropical da América do Sul, amplamente cultivada e consumida no Brasil, Paraguai, Argentina e Uruguai. Suas folhas são utilizadas para preparar bebidas tradicionais como chimarrão, tereré e chá mate, conhecidas por suas propriedades estimulantes. A planta é adaptada a climas subtropicais e solos bem drenados, e seu cultivo é de grande importância econômica e cultural para a região.",
+    "culturalNote": "Símbolo cultural e econômico no Sul do Brasil e países vizinhos, base para bebidas tradicionais.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Erva-mate",
+    "imageCredit": "Wikimedia Commons / Daderot / CC0"
+  },
+  {
+    "id": "acaizeiro",
+    "name": "Açaizeiro",
+    "otherNames": [
+      "Açaí",
+      "Palmeira-açaí"
+    ],
+    "scientific": "Euterpe oleracea Mart.",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Regular, solo constantemente úmido",
+    "fertilizing": "3-4x/ano com fertilizante para palmeiras",
+    "soilType": "Úmido, bem drenado, rico em matéria orgânica",
+    "height": "até 25 m",
+    "flowerColor": "Esbranquiçado",
+    "leafType": "Pinada",
+    "uses": [
+      "Alimentar",
+      "Medicinal",
+      "Paisagismo",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "frutífera",
+      "alimentar",
+      "superalimento"
+    ],
+    "description": "O açaizeiro (Euterpe oleracea) é uma palmeira nativa da região amazônica, especialmente no Pará, conhecida por produzir o açaí, um fruto bacáceo de cor roxa. É uma planta de grande importância econômica e cultural para a região, sendo a base de alimentos e bebidas. A palmeira pode atingir mais de 25 metros de altura e é adaptada a solos úmidos e bem drenados. Além do uso alimentar, o açaí possui propriedades medicinais e é utilizado em paisagismo e reflorestamento.",
+    "culturalNote": "Fruto símbolo da Amazônia, base da alimentação e cultura de povos tradicionais.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Açaí",
+    "imageCredit": "Wikimedia Commons / Túllio F / CC BY-SA 4.0"
+  },
+  {
+    "id": "jucara",
+    "name": "Juçara",
+    "otherNames": [
+      "Içara",
+      "Palmito-juçara",
+      "Palmito-doce"
+    ],
+    "scientific": "Euterpe edulis Mart.",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Mata Atlântica",
+    "region": "Sudeste, Sul",
+    "climate": "Subtropical",
+    "light": "Meia-sombra a sol pleno",
+    "watering": "Regular, solo úmido",
+    "fertilizing": "Mensal com NPK equilibrado",
+    "soilType": "Bem drenado, rico em matéria orgânica, ligeiramente ácido",
+    "height": "8-15 m",
+    "flowerColor": "Esbranquiçado",
+    "leafType": "Pinada",
+    "uses": [
+      "Alimentar",
+      "Paisagismo",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "mata-atlantica",
+      "ameaçada",
+      "alimentar",
+      "palmito"
+    ],
+    "description": "A Juçara (Euterpe edulis) é uma palmeira nativa da Mata Atlântica brasileira, conhecida principalmente pelo seu palmito de alta qualidade. É uma espécie ameaçada de extinção devido à exploração predatória do palmito. Seus frutos são também comestíveis e têm ganhado popularidade como alternativa ao açaí. A palmeira desempenha um papel ecológico fundamental na Mata Atlântica, servindo de alimento para diversas espécies da fauna.",
+    "culturalNote": "Palmeira símbolo da Mata Atlântica, essencial para a fauna e valorizada pelo palmito e fruto.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Juçara",
+    "imageCredit": "Wikimedia Commons / Daderot / CC BY-SA 3.0"
+  },
+  {
+    "id": "babacu",
+    "name": "Babaçu",
+    "otherNames": [
+      "Bauacu",
+      "Baguaçu",
+      "Coco-de-macaco"
+    ],
+    "scientific": "Attalea speciosa Mart. ex Spreng.",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Amazônia",
+    "region": "Norte, Nordeste, Centro-Oeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Regular (solo úmido, mas não encharcado)",
+    "fertilizing": "Periódica com fertilizante para palmeiras",
+    "soilType": "Bem drenado, adaptável a vários tipos de solo",
+    "height": "até 20 m",
+    "flowerColor": "Amarelo-esbranquiçado",
+    "leafType": "Pinada",
+    "uses": [
+      "Alimentar",
+      "Medicinal",
+      "Artesanato",
+      "Biocombustível",
+      "Madeireiro"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "extrativismo",
+      "oleaginosa",
+      "cultural"
+    ],
+    "description": "O Babaçu (Attalea speciosa) é uma palmeira de grande porte nativa da região amazônica e do Meio-Norte do Brasil, especialmente nos estados do Maranhão e Piauí. É uma espécie de extrema importância socioeconômica e cultural para as comunidades locais, que utilizam seus frutos para a produção de óleo, farinha e artesanato. A palmeira é adaptada a solos bem drenados e requer sol pleno para seu desenvolvimento. Suas folhas são pinadas e suas flores são amareladas.",
+    "culturalNote": "Símbolo do extrativismo sustentável e da luta das quebradeiras de coco no Nordeste.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Babaçu",
+    "imageCredit": "Wikimedia Commons / Daderot / CC0"
+  },
+  {
+    "id": "carnauba",
+    "name": "Carnaúba",
+    "otherNames": [
+      "Carnaubeira",
+      "Carnaíba"
+    ],
+    "scientific": "Copernicia prunifera H.Karst.",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Caatinga",
+    "region": "Nordeste",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Tolerante à seca",
+    "fertilizing": "Não necessita (em condições naturais)",
+    "soilType": "Adaptável a vários tipos de solo, preferencialmente úmidos e bem drenados",
+    "height": "7-15 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Palmada (leque)",
+    "uses": [
+      "Artesanato",
+      "Alimentar",
+      "Madeireiro",
+      "Medicinal",
+      "Apicultura"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "cera",
+      "arvore-da-vida",
+      "extrativismo"
+    ],
+    "description": "A Carnaúba (Copernicia prunifera) é uma palmeira icônica do semiárido nordestino brasileiro, conhecida como 'árvore da vida' devido à multiplicidade de usos de suas partes. Suas folhas produzem a cera de carnaúba, um produto de alto valor comercial utilizado em diversas indústrias. A palmeira é resistente à seca e desempenha um papel crucial na economia e cultura local, além de fornecer alimento e abrigo para a fauna. Seus frutos são comestíveis e suas raízes possuem propriedades medicinais.",
+    "culturalNote": "Conhecida como 'árvore da vida' no Nordeste, símbolo de resistência e sustento.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Carnaúba",
+    "imageCredit": "Wikimedia Commons / Tacarijus / CC BY-SA 3.0"
+  },
+  {
+    "id": "licuri",
+    "name": "Licuri",
+    "otherNames": [
+      "Ouricuri",
+      "Aricuri",
+      "Butiá"
+    ],
+    "scientific": "Syagrus coronata (Mart.) Becc.",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Caatinga",
+    "region": "Nordeste",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Adaptável a vários tipos de solo, bem drenado",
+    "height": "3-12 m",
+    "flowerColor": "Esbranquiçado",
+    "leafType": "Pinada",
+    "uses": [
+      "Alimentar",
+      "Artesanato",
+      "Medicinal",
+      "Apicultura",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "extrativismo",
+      "alimentar",
+      "ameaçada"
+    ],
+    "description": "O Licuri (Syagrus coronata) é uma palmeira nativa da Caatinga e da costa leste do Brasil, podendo atingir até 12 metros de altura. Seus frutos são uma importante fonte de alimento para a fauna local, incluindo a arara-azul-de-lear, uma espécie ameaçada de extinção. A palmeira é valorizada por suas amêndoas comestíveis, que também são usadas para extração de óleo, e suas folhas são empregadas no artesanato. É uma espécie adaptada a ambientes semiáridos e desempenha um papel ecológico e cultural significativo na região.",
+    "culturalNote": "Palmeira vital para a fauna da Caatinga e base de sustento para comunidades locais.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Syagrus_coronata",
+    "imageCredit": "Wikimedia Commons / Mauroguanandi / CC BY-SA 3.0"
+  },
+  {
+    "id": "macauba",
+    "name": "Macaúba",
+    "otherNames": [
+      "Macaíba",
+      "Bocaiuva",
+      "Coco-de-espinho"
+    ],
+    "scientific": "Acrocomia aculeata (Jacq.) Lodd. ex Mart.",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Cerrado",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Regular (tolerante à seca após estabelecida)",
+    "fertilizing": "Anual com matéria orgânica",
+    "soilType": "Bem drenado, fértil",
+    "height": "10-15 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Pinada",
+    "uses": [
+      "Alimentar",
+      "Biocombustível",
+      "Madeireiro",
+      "Paisagismo",
+      "Apicultura"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "oleaginosa",
+      "biodiversidade",
+      "cerrado"
+    ],
+    "description": "A Macaúba (Acrocomia aculeata) é uma palmeira nativa do Brasil, amplamente distribuída em biomas como o Cerrado, Amazônia e Mata Atlântica. Conhecida por seus espinhos e frutos ricos em óleo, é uma espécie de grande potencial econômico e ambiental. Seus frutos são utilizados na alimentação humana e animal, na produção de biocombustíveis e cosméticos. A palmeira atinge até 15 metros de altura, possui folhas pinadas e flores amareladas. É uma planta resistente e adaptável a diferentes tipos de solo.",
+    "culturalNote": "Palmeira versátil, com frutos que são fonte de alimento e energia para diversas comunidades.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Coco-de-espinho",
+    "imageCredit": "Wikimedia Commons / Mauroguanandi / CC BY-SA 3.0"
+  },
+  {
+    "id": "angico",
+    "name": "Angico",
+    "otherNames": [
+      "Angico-branco",
+      "Curupaí",
+      "Jurema preta"
+    ],
+    "scientific": "Anadenanthera colubrina (Vell.) Brenan",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Caatinga",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal — tolerante à seca",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Bem drenado, adaptável a vários tipos",
+    "height": "5–15 m",
+    "flowerColor": "Branco",
+    "leafType": "Composta bipinada",
+    "uses": [
+      "Madeireiro",
+      "Medicinal",
+      "Reflorestamento",
+      "Artesanato"
+    ],
+    "tags": [
+      "nativa",
+      "madeira",
+      "medicinal",
+      "tanino",
+      "alucinógena"
+    ],
+    "description": "O Angico (Anadenanthera colubrina) é uma árvore caducifólia nativa do Brasil, encontrada em biomas como a Caatinga e Mata Atlântica. Sua madeira é valorizada na construção civil e como lenha, enquanto sua casca é rica em taninos e utilizada na medicina popular. As sementes são historicamente usadas por algumas tribos para fins rituais devido às suas propriedades alucinógenas. É uma espécie adaptável a diferentes tipos de solo e resistente à seca.",
+    "culturalNote": "Sua casca é empregada na medicina popular e suas sementes têm uso ritualístico por tribos indígenas.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Anadenanthera_colubrina",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "guarana",
+    "name": "Guaraná",
+    "otherNames": [
+      "Guaranazeiro",
+      "Uaraná",
+      "Guaraná-da-amazônia"
+    ],
+    "scientific": "Paullinia cupana Kunth",
+    "family": "Sapindaceae",
+    "type": "Trepadeira",
+    "biome": "Amazônia",
+    "region": "Norte, Nordeste",
+    "climate": "Equatorial",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Humoso e fértil",
+    "height": "até 3 m",
+    "flowerColor": "Branco e amarelo",
+    "leafType": "Composta pinada",
+    "uses": [
+      "Medicinal",
+      "Alimentar",
+      "Aromaterapia"
+    ],
+    "tags": [
+      "nativa",
+      "estimulante",
+      "frutífera"
+    ],
+    "description": "O guaraná é um cipó nativo da Amazônia, cultivado principalmente no Brasil. É conhecido por suas sementes ricas em cafeína, utilizadas em bebidas e produtos farmacêuticos. A planta possui um fruto peculiar que se assemelha a um olho, e sua lenda de origem é um marco cultural para os povos indígenas da região.",
+    "culturalNote": "Símbolo de energia e vitalidade, com lendas indígenas que narram sua origem mística.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Guaraná",
+    "imageCredit": "Wikimedia Commons / Franz Eugen Koehler, 1897"
+  },
+  {
+    "id": "acafrao-da-terra",
+    "name": "Açafrão-da-terra",
+    "otherNames": [
+      "Cúrcuma",
+      "Gengibre amarelo",
+      "Raiz de sol"
+    ],
+    "scientific": "Curcuma longa L.",
+    "family": "Zingiberaceae",
+    "type": "Erva",
+    "biome": "Não nativa do Brasil",
+    "region": "Cultivada em todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "2x por semana",
+    "fertilizing": "Mensal com NPK equilibrado",
+    "soilType": "Humoso e fértil",
+    "height": "0,9–1,2 m",
+    "flowerColor": "Branco e amarelo",
+    "leafType": "Simples lanceolada",
+    "uses": [
+      "Medicinal",
+      "Alimentar",
+      "Corante"
+    ],
+    "tags": [
+      "especiaria",
+      "medicinal",
+      "cultivada"
+    ],
+    "description": "Açafrão-da-terra, ou cúrcuma, é uma planta herbácea da família do gengibre, originária do Sudeste da Ásia. Sua raiz é amplamente utilizada como especiaria, condimento e corante na culinária, além de possuir reconhecidas propriedades medicinais, como ações anti-inflamatórias e antioxidantes. É cultivada em diversas regiões do Brasil devido à sua versatilidade e benefícios.",
+    "culturalNote": "Valorizada globalmente na culinária e medicina tradicional, especialmente na Ásia e no Brasil.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/A%C3%A7afr%C3%A3o-da-terra",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "erva-cidreira",
+    "name": "Erva-cidreira",
+    "otherNames": [
+      "Melissa",
+      "Cidreira",
+      "Erva-cidreira verdadeira"
+    ],
+    "scientific": "Melissa officinalis L.",
+    "family": "Lamiaceae",
+    "type": "Erva",
+    "biome": "Não nativa do Brasil",
+    "region": "Cultivada em todo o Brasil",
+    "climate": "Temperado",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "2x por semana",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Humoso e fértil",
+    "height": "0,3–0,9 m",
+    "flowerColor": "Branco e rosa",
+    "leafType": "Simples ovalada",
+    "uses": [
+      "Medicinal",
+      "Aromaterapia",
+      "Culinária"
+    ],
+    "tags": [
+      "calmante",
+      "medicinal",
+      "aromática"
+    ],
+    "description": "A erva-cidreira, ou melissa, é uma planta herbácea perene da família da menta, nativa da Europa meridional. É amplamente cultivada no Brasil por suas propriedades medicinais, sendo utilizada como calmante, digestivo e em aromaterapia. Suas folhas possuem um aroma cítrico característico.",
+    "culturalNote": "Conhecida por suas propriedades calmantes e seu uso em chás para relaxamento e bem-estar.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Erva-cidreira",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "capim-limao",
+    "name": "Capim-limão",
+    "otherNames": [
+      "Erva-príncipe",
+      "Capim-cidreira",
+      "Capim-santo"
+    ],
+    "scientific": "Cymbopogon citratus (DC) Stapf.",
+    "family": "Poaceae",
+    "type": "Erva",
+    "biome": "Não nativa do Brasil",
+    "region": "Cultivada em todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "2x por semana",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Humoso e fértil",
+    "height": "0,5–1,5 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Simples linear-lanceolada",
+    "uses": [
+      "Medicinal",
+      "Aromaterapia",
+      "Culinária"
+    ],
+    "tags": [
+      "aromática",
+      "medicinal",
+      "cultivada"
+    ],
+    "description": "O capim-limão, também conhecido como capim-santo ou erva-príncipe, é uma planta herbácea da família Poaceae, nativa das regiões tropicais da Ásia. É amplamente cultivado no Brasil por suas folhas aromáticas, utilizadas em chás, culinária e aromaterapia. Possui propriedades medicinais como febrífugas, analgésicas e calmantes.",
+    "culturalNote": "Amplamente utilizado em chás e na culinária brasileira por seu aroma cítrico e propriedades calmantes.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Cymbopogon_citratus",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "boldo-do-brasil",
+    "name": "Boldo-do-brasil",
+    "otherNames": [
+      "Boldo-da-terra",
+      "Boldo-de-jardim",
+      "Falso boldo"
+    ],
+    "scientific": "Plectranthus barbatus Andrews",
+    "family": "Lamiaceae",
+    "type": "Arbusto",
+    "biome": "Não nativa do Brasil",
+    "region": "Cultivada em todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "2x por semana",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Humoso e bem drenado",
+    "height": "1,5–2,5 m",
+    "flowerColor": "Roxo",
+    "leafType": "Simples ovalada",
+    "uses": [
+      "Medicinal",
+      "Paisagismo"
+    ],
+    "tags": [
+      "medicinal",
+      "cultivada",
+      "aromática"
+    ],
+    "description": "O Boldo-do-brasil, cientificamente conhecido como Plectranthus barbatus, é um arbusto da família Lamiaceae, nativo da África tropical e Ásia. Apesar do nome popular, não é nativo do Brasil, mas é amplamente cultivado e utilizado na medicina popular brasileira por suas propriedades digestivas e hepáticas. Suas folhas são aveludadas e possuem um aroma característico.",
+    "culturalNote": "Amplamente utilizado na medicina popular brasileira para problemas digestivos e hepáticos.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Plectranthus_barbatus",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "espinheira-santa",
+    "name": "Espinheira-santa",
+    "otherNames": [
+      "Espinheira-divina",
+      "Erva-cancerosa",
+      "Congorça"
+    ],
+    "scientific": "Monteverdia ilicifolia",
+    "family": "Celastraceae",
+    "type": "Arbusto",
+    "biome": "Mata Atlântica",
+    "region": "Sul do Brasil",
+    "climate": "Subtropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Humoso e bem drenado",
+    "height": "1–3 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Simples coriácea",
+    "uses": [
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "medicinal",
+      "gastrite"
+    ],
+    "description": "A Espinheira-santa é um arbusto nativo da Mata Atlântica, especialmente na região Sul do Brasil. Reconhecida por suas propriedades medicinais, é amplamente utilizada na medicina popular para tratar problemas digestivos como gastrite e úlceras. Suas folhas são o principal recurso terapêutico, sendo valorizadas por suas ações protetoras da mucosa gástrica.",
+    "culturalNote": "Planta medicinal tradicionalmente usada no Brasil para alívio de problemas estomacais.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Espinheira-santa",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "carqueja",
+    "name": "Carqueja",
+    "otherNames": [
+      "Carqueja-amargosa"
+    ],
+    "scientific": "Baccharis trimera (Less.) DC.",
+    "family": "Asteraceae",
+    "type": "Arbusto",
+    "biome": "Pampa",
+    "region": "Todo o Brasil",
+    "climate": "Tropical, Subtropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Humoso e bem drenado",
+    "height": "0,5–0,8 m",
+    "flowerColor": "Branco-amarelado",
+    "leafType": "Reduzida",
+    "uses": [
+      "Medicinal",
+      "Paisagismo"
+    ],
+    "tags": [
+      "nativa",
+      "medicinal",
+      "digestiva"
+    ],
+    "description": "A carqueja, cientificamente conhecida como Baccharis trimera, é uma planta herbácea perene nativa da América do Sul, amplamente encontrada no Brasil. Caracteriza-se por suas hastes aladas que realizam a fotossíntese, já que suas folhas são reduzidas. É muito valorizada na medicina popular por suas propriedades digestivas e hepáticas, sendo utilizada em chás e infusões para diversos tratamentos. Também é apreciada no paisagismo por sua rusticidade e aspecto ornamental.",
+    "culturalNote": "Planta medicinal popular no Brasil, conhecida por suas propriedades digestivas e hepáticas.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Baccharis_trimera",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "maracuja-do-mato",
+    "name": "Maracujá-do-mato",
+    "otherNames": [
+      "Maracujá da Caatinga",
+      "Maracujá do Cerrado"
+    ],
+    "scientific": "Passiflora cincinnata Mast.",
+    "family": "Passifloraceae",
+    "type": "Trepadeira",
+    "biome": "Caatinga, Cerrado, Mata Atlântica",
+    "region": "Nordeste, Centro-Oeste, Sudeste",
+    "climate": "Semiárido, Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Arenoso e bem drenado",
+    "height": "2–5 m",
+    "flowerColor": "Roxo",
+    "leafType": "Palmada",
+    "uses": [
+      "Alimentar",
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "caatinga",
+      "cerrado"
+    ],
+    "description": "O Maracujá-do-mato, ou Passiflora cincinnata, é uma trepadeira nativa do Brasil, encontrada principalmente na Caatinga, Cerrado e Mata Atlântica. Seus frutos são comestíveis, com polpa doce e aromática, e suas flores roxas são ornamentais. É uma espécie resistente, adaptada a climas semiáridos e tropicais, e possui potencial para uso alimentar e medicinal.",
+    "culturalNote": "Fruto nativo do Brasil, valorizado por seu sabor e aroma, com potencial de cultivo em regiões áridas.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Passiflora_cincinnata",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "jurema-preta",
+    "name": "Jurema-preta",
+    "otherNames": [
+      "Calumbi",
+      "Tepezcohuite",
+      "Jurema"
+    ],
+    "scientific": "Mimosa tenuiflora (Willd.) Poir.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Caatinga",
+    "region": "Nordeste",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso e bem drenado",
+    "height": "4–8 m",
+    "flowerColor": "Branco",
+    "leafType": "Composta bipinada",
+    "uses": [
+      "Medicinal",
+      "Sagrado/Ritual",
+      "Madeireiro"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "medicinal",
+      "ritualística"
+    ],
+    "description": "A Jurema-preta, ou Mimosa tenuiflora, é uma árvore ou arbusto perene nativa da Caatinga, no Nordeste do Brasil, e também encontrada em outras partes da América Central e do Sul. É conhecida por sua resistência à seca e por sua importância cultural e medicinal, sendo utilizada em rituais indígenas e na medicina popular. Suas flores brancas e perfumadas atraem polinizadores, e sua madeira é densa e durável.",
+    "culturalNote": "Planta de grande significado espiritual e medicinal para povos indígenas do Nordeste brasileiro.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Jurema-preta",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "catinga-de-mulata",
+    "name": "Catinga-de-mulata",
+    "otherNames": [
+      "Tansy",
+      "Botões-amargos",
+      "Erva-lombrigueira"
+    ],
+    "scientific": "Tanacetum vulgare L.",
+    "family": "Asteraceae",
+    "type": "Erva",
+    "biome": "Não nativa do Brasil",
+    "region": "Cultivada em todo o Brasil",
+    "climate": "Temperado",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Humoso e bem drenado",
+    "height": "0,5–1,5 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Composta pinada",
+    "uses": [
+      "Medicinal",
+      "Repelente",
+      "Ornamental"
+    ],
+    "tags": [
+      "medicinal",
+      "aromática",
+      "cultivada"
+    ],
+    "description": "A Catinga-de-mulata, ou Tanacetum vulgare, é uma planta herbácea perene nativa da Europa e Ásia temperadas, introduzida e cultivada em diversas partes do mundo, incluindo o Brasil. É conhecida por suas folhas finamente divididas e flores amarelas em forma de botão. Possui um aroma forte e é utilizada na medicina popular por suas propriedades vermífugas e anti-reumáticas, além de ser usada como repelente natural e planta ornamental.",
+    "culturalNote": "Utilizada na medicina popular brasileira para diversos fins, apesar de não ser nativa.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tanacetum_vulgare",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "ipe-amarelo-do-cerrado",
+    "name": "Ipê-amarelo-do-cerrado",
+    "otherNames": [
+      "Ipê-amarelo",
+      "Ipê-cascudo",
+      "Pau-d'arco-do-campo"
+    ],
+    "scientific": "Handroanthus ochraceus (Cham.) Mattos. 1832",
+    "family": "Bignoniaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Norte, Nordeste, Centro-Oeste, Sudeste, Sul",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Arenoso e bem drenado",
+    "height": "6–14 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Composta digitada, pilosa",
+    "uses": [
+      "Madeireiro",
+      "Ornamental",
+      "Paisagismo",
+      "Apicultura",
+      "Sombra"
+    ],
+    "tags": [
+      "cerrado",
+      "nativa",
+      "ornamental",
+      "resistente",
+      "florada-espetacular"
+    ],
+    "description": "O Ipê-amarelo-do-cerrado é uma árvore nativa do bioma Cerrado, conhecida por sua espetacular floração amarela que ocorre entre julho e setembro. Sua madeira é valorizada pela dureza e resistência, sendo utilizada em diversas aplicações. É uma espécie heliófita e xerófita, adaptada a solos bem drenados e períodos de seca, desempenhando um papel importante na paisagem e ecologia do Cerrado.",
+    "culturalNote": "Símbolo de resistência e beleza do Cerrado, com floração que anuncia a chegada da primavera.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Ip%C3%AA-do-cerrado",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "cagaita",
+    "name": "Cagaita",
+    "otherNames": [
+      "Cagaiteira"
+    ],
+    "scientific": "Eugenia dysenterica (Mart.) DC.",
+    "family": "Myrtaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Centro-Oeste, Nordeste, Sudeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Quinzenal (tolerante à seca)",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Arenoso e bem drenado",
+    "height": "4–10 m",
+    "flowerColor": "Branco",
+    "leafType": "Simples, coriácea",
+    "uses": [
+      "Alimentar",
+      "Medicinal",
+      "Paisagismo",
+      "Apicultura"
+    ],
+    "tags": [
+      "cerrado",
+      "nativa",
+      "frutífera",
+      "ornamental",
+      "medicinal"
+    ],
+    "description": "A Cagaita (Eugenia dysenterica) é uma árvore frutífera nativa do Cerrado brasileiro, conhecida por seus frutos amarelos de sabor adocicado e efeito laxante quando consumidos em excesso. Floresce entre agosto e setembro, apresentando uma floração branca ornamental. Sua madeira e folhas também possuem usos medicinais e a casca é usada na indústria de curtumes. É uma espécie de médio a grande porte, adaptada a solos bem drenados e pleno sol.",
+    "culturalNote": "Fruto emblemático do Cerrado, valorizado por seu sabor e propriedades medicinais, mas com consumo moderado.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Cagaiteira",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "mangaba",
+    "name": "Mangaba",
+    "otherNames": [
+      "Mangaba-ovo",
+      "Mangabeira"
+    ],
+    "scientific": "Hancornia speciosa Gomes",
+    "family": "Apocynaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Norte, Nordeste, Centro-Oeste, Sudeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal (tolerante à seca)",
+    "fertilizing": "Semestral com orgânico",
+    "soilType": "Arenoso e bem drenado, ácido",
+    "height": "5–10 m",
+    "flowerColor": "Branco",
+    "leafType": "Simples elíptica, caducifólia",
+    "uses": [
+      "Alimentar",
+      "Medicinal",
+      "Artesanato",
+      "Paisagismo"
+    ],
+    "tags": [
+      "frutífera",
+      "nativa",
+      "cerrado",
+      "medicinal",
+      "látex"
+    ],
+    "description": "A Mangaba (Hancornia speciosa) é uma árvore frutífera nativa do Brasil, encontrada em biomas como Cerrado, Pantanal e Mata Atlântica. Seu fruto, a mangaba, é muito apreciado na culinária regional para sucos, sorvetes e doces. A planta também é valorizada por suas propriedades medicinais e pelo látex, utilizado na produção de borracha. É uma árvore de médio porte, com flores brancas e folhas elípticas, adaptada a solos pobres e bem drenados.",
+    "culturalNote": "Fruto símbolo do Cerrado e Nordeste, com sabor único e usos diversos, do alimento à medicina.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Mangaba",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "murici",
+    "name": "Murici",
+    "otherNames": [
+      "Muruci",
+      "Murici-da-praia",
+      "Fruta de jacu"
+    ],
+    "scientific": "Byrsonima crassifolia (L.) Kunth",
+    "family": "Malpighiaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Norte, Nordeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Arenoso, profundo e bem drenado",
+    "height": "6–16 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Simples, lisa",
+    "uses": [
+      "Alimentar",
+      "Medicinal",
+      "Paisagismo"
+    ],
+    "tags": [
+      "frutífera",
+      "nativa",
+      "cerrado",
+      "medicinal",
+      "ornamental"
+    ],
+    "description": "O Murici (Byrsonima crassifolia) é uma árvore nativa do Norte e Nordeste do Brasil, pertencente à família Malpighiaceae. Conhecido por seus frutos pequenos e amarelos, de sabor ácido e aroma intenso, é amplamente utilizado na culinária regional para sucos, doces e licores. A planta adapta-se a solos arenosos e ácidos, sendo encontrada em regiões úmidas e dunas, onde pode crescer como arbusto. Suas flores amarelas em cachos conferem um belo aspecto ornamental.",
+    "culturalNote": "Fruta tradicional do Norte e Nordeste, valorizada por seu sabor marcante e usos culinários.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Byrsonima_crassifolia",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "otherNames": [
+      "Baruzeiro",
+      "Cumaru",
+      "Castanha-de-baru"
+    ],
+    "scientific": "Dipteryx alata Vogel",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Centro-Oeste, Sudeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal (tolerante à seca)",
+    "fertilizing": "Semestral com orgânico",
+    "soilType": "Profundo, arenoso e bem drenado",
+    "height": "15–25 m",
+    "flowerColor": "Esverdeado",
+    "leafType": "Composta pinada",
+    "uses": [
+      "Alimentar",
+      "Madeireiro",
+      "Medicinal",
+      "Reflorestamento",
+      "Apicultura"
+    ],
+    "tags": [
+      "cerrado",
+      "nativa",
+      "frutífera",
+      "ameaçada",
+      "nutritiva"
+    ],
+    "description": "O Baru (Dipteryx alata) é uma árvore nativa do Cerrado brasileiro, conhecida por sua castanha nutritiva e saborosa, que é uma iguaria regional. A árvore pode atingir até 25 metros de altura e possui uma copa densa e arredondada. Sua madeira é de alta qualidade e resistência, sendo utilizada em diversas aplicações. Além do valor alimentar, o baruzeiro é importante para o reflorestamento e possui propriedades medicinais. Está ameaçado de extinção devido à expansão agrícola e ao corte de madeira.",
+    "culturalNote": "A castanha de baru é um superalimento do Cerrado, valorizado por seu sabor e propriedades nutricionais.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Baru",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "lobeira",
+    "name": "Lobeira",
+    "otherNames": [
+      "Fruta-de-lobo",
+      "Guarambá"
+    ],
+    "scientific": "Solanum lycocarpum A.St. Hil.",
+    "family": "Solanaceae",
+    "type": "Arbusto",
+    "biome": "Cerrado",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Trimestral com orgânico e fósforo",
+    "soilType": "Ácido e bem drenado",
+    "height": "até 5 m",
+    "flowerColor": "Roxo",
+    "leafType": "Simples, ovaladas, pilosas",
+    "uses": [
+      "Medicinal",
+      "Alimentar",
+      "Paisagismo",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "cerrado",
+      "nativa",
+      "medicinal",
+      "frutífera",
+      "lobo-guará"
+    ],
+    "description": "A Lobeira (Solanum lycocarpum) é um arbusto ou pequena árvore nativa do Cerrado brasileiro, conhecida por seus frutos que são parte essencial da dieta do lobo-guará. Seus frutos, que lembram tomates, são utilizados na culinária e na medicina popular. A planta é resistente a condições adversas, como solos ácidos e secas, e possui flores roxas em formato de estrela. É uma espécie pioneira importante para a recuperação de áreas degradadas.",
+    "culturalNote": "Essencial para a dieta do lobo-guará, a lobeira é um símbolo da interdependência ecológica do Cerrado.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Solanum_lycocarpum",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "sucupira-branca",
+    "name": "Sucupira-branca",
+    "otherNames": [
+      "Faveiro",
+      "Fava-de-sucupira",
+      "Sucupira-lisa"
+    ],
+    "scientific": "Pterodon emarginatus Vogel",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Centro-Oeste, Sudeste, Nordeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso e bem drenado",
+    "height": "5–10 m",
+    "flowerColor": "Rosa ou roxeada",
+    "leafType": "Composta pinada",
+    "uses": [
+      "Medicinal",
+      "Madeireiro",
+      "Apicultura",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "cerrado",
+      "nativa",
+      "medicinal",
+      "madeireira",
+      "resistente"
+    ],
+    "description": "A Sucupira-branca (Pterodon emarginatus) é uma árvore nativa do Cerrado brasileiro, conhecida por suas propriedades medicinais, especialmente de suas sementes. É uma espécie de médio porte, com flores rosadas ou roxeadas que atraem abelhas, contribuindo para a apicultura. Sua madeira é valorizada e a planta é utilizada em projetos de reflorestamento devido à sua resistência e pouca exigência em relação ao solo. Adapta-se bem a climas tropicais e solos arenosos e bem drenados.",
+    "culturalNote": "Planta medicinal do Cerrado, suas sementes são tradicionalmente usadas para diversos tratamentos.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pterodon_emarginatus",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "candeia",
+    "name": "Candeia",
+    "otherNames": [
+      "Paratudo",
+      "Cambará-do-campo",
+      "Cinzeiro"
+    ],
+    "scientific": "Eremanthus erythropappus (DC.) MacLeish",
+    "family": "Asteraceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Centro-Oeste, Sudeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Bem drenado",
+    "height": "até 10 m",
+    "flowerColor": "Rosa ou arroxeada",
+    "leafType": "Simples",
+    "uses": [
+      "Madeireiro",
+      "Medicinal",
+      "Apicultura",
+      "Paisagismo"
+    ],
+    "tags": [
+      "cerrado",
+      "nativa",
+      "medicinal",
+      "madeireira",
+      "aromática"
+    ],
+    "description": "A Candeia (Eremanthus erythropappus) é uma árvore nativa do Cerrado e Mata Atlântica, conhecida por sua madeira de alta qualidade e pelo óleo essencial rico em alfa-bisabolol, valorizado na indústria cosmética e farmacêutica. É uma planta resistente, adaptada a climas tropicais e solos bem drenados, crescendo em pleno sol. Suas flores rosadas ou arroxeadas atraem polinizadores, contribuindo para a biodiversidade. É utilizada em reflorestamento e paisagismo.",
+    "culturalNote": "Valorizada por seu óleo essencial, a candeia é um recurso natural importante para a economia e saúde.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Eremanthus_erythropappus",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "lixeira",
+    "name": "Lixeira",
+    "otherNames": [
+      "Sambaíba",
+      "Cajueiro-bravo",
+      "Cambarba"
+    ],
+    "scientific": "Curatella americana L.",
+    "family": "Dilleniaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso, ácido e bem drenado",
+    "height": "1–12 m",
+    "flowerColor": "Branco",
+    "leafType": "Simples, coriácea, áspera",
+    "uses": [
+      "Madeireiro",
+      "Medicinal",
+      "Apicultura",
+      "Artesanato",
+      "Sombra"
+    ],
+    "tags": [
+      "cerrado",
+      "nativa",
+      "resistente",
+      "lixa",
+      "madeireira"
+    ],
+    "description": "A Lixeira (Curatella americana) é uma árvore ou arbusto tortuoso, nativa do Cerrado brasileiro, conhecida por suas folhas ásperas que se assemelham a uma lixa, daí seu nome popular. Adapta-se a solos arenosos, ácidos e bem drenados, sendo resistente à seca e ao fogo. Suas flores brancas atraem abelhas, e seus frutos servem de alimento para aves. A madeira é utilizada para marcenaria e a planta possui propriedades medicinais. É uma espécie de grande dispersão, encontrada do México a São Paulo.",
+    "culturalNote": "Suas folhas são usadas como lixa natural, um testemunho da engenhosidade da natureza.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Cajueiro-bravo-do-campo",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "pau-de-tucano",
+    "name": "Pau-de-tucano",
+    "otherNames": [
+      "Caixeta",
+      "Congonha",
+      "Vinhático-do-campo"
+    ],
+    "scientific": "Vochysia thyrsoidea Pohl",
+    "family": "Vochysiaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Centro-Oeste, Sudeste, Nordeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Ácido e bem drenado",
+    "height": "4–12 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Simples, oblonga a obovada",
+    "uses": [
+      "Madeireiro",
+      "Paisagismo",
+      "Reflorestamento",
+      "Sombra"
+    ],
+    "tags": [
+      "cerrado",
+      "nativa",
+      "resistente",
+      "madeireira",
+      "ornamental"
+    ],
+    "description": "O Pau-de-tucano (Vochysia thyrsoidea) é uma árvore nativa do Cerrado brasileiro, conhecida por sua resistência e adaptação a solos ácidos e períodos de seca. Pode atingir até 12 metros de altura, com uma copa irregular que proporciona boa sombra. Suas flores amarelas são um atrativo paisagístico. A madeira é utilizada em diversas aplicações e a planta é recomendada para reflorestamento e sombreamento em pastagens, contribuindo para a recuperação de áreas degradadas.",
+    "culturalNote": "Árvore resistente do Cerrado, valorizada por sua madeira e beleza ornamental.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Vochysia_thyrsoidea",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "vitoria-regia",
+    "name": "Vitória-régia",
+    "otherNames": [
+      "irupé",
+      "uapé",
+      "rainha-dos-lagos"
+    ],
+    "scientific": "Victoria amazonica",
+    "family": "Nymphaeaceae",
+    "type": "Planta aquática",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Sol pleno",
+    "watering": "Constante (aquática)",
+    "fertilizing": "Não necessita (em ambiente natural)",
+    "soilType": "Lama orgânica do fundo de rios e lagos",
+    "height": "Folhas até 2,5 m de diâmetro",
+    "flowerColor": "Branco, lilás, roxo, rosa e amarelo",
+    "leafType": "Circular, com bordas levantadas",
+    "uses": [
+      "Ornamental",
+      "Alimentar",
+      "Medicinal",
+      "Sagrado/Ritual"
+    ],
+    "tags": [
+      "aquática",
+      "nativa",
+      "amazônia",
+      "gigante",
+      "simbólica"
+    ],
+    "description": "A Vitória-régia (Victoria amazonica) é uma planta aquática gigante da família Nymphaeaceae, nativa da região amazônica. Suas folhas circulares podem atingir até 2,5 metros de diâmetro e suportar pesos consideráveis. Possui flores que mudam de cor e exalam fragrância noturna, atraindo polinizadores. É um ícone da flora brasileira, presente em lendas indígenas e utilizada para fins ornamentais e medicinais.",
+    "culturalNote": "Símbolo da Amazônia, com lendas indígenas sobre sua origem.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Victoria_amazonica",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "castanha-do-para",
+    "name": "Castanha-do-pará",
+    "otherNames": [
+      "castanheira",
+      "castanheira-do-pará"
+    ],
+    "scientific": "Bertholletia excelsa",
+    "family": "Lecythidaceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Sol pleno",
+    "watering": "Alta (chuvas)",
+    "fertilizing": "Não necessita (em ambiente natural)",
+    "soilType": "Argiloso e úmido",
+    "height": "até 50 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Simples, oblonga, coriácea",
+    "uses": [
+      "Alimentar",
+      "Madeireiro",
+      "Óleo",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "frutífera",
+      "ameaçada",
+      "econômica"
+    ],
+    "description": "Bertholletia excelsa ou castanheira é uma árvore de grande porte da família Lecitidácea, originária da floresta de terra firme, muito abundante na Amazônia, cujo fruto contém a castanha, do qual se extrai o núcleo de sua semente para o consumo. A primeira menção registrada remonta a 1596, realizada por Juan Álvarez Maldonado, nas matas do território que hoje corresponde ao Peru.",
+    "culturalNote": "Fruto icônico da Amazônia, base da economia de muitas comunidades.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Bertholletia_excelsa",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "seringueira",
+    "name": "Seringueira",
+    "otherNames": [
+      "árvore-da-borracha"
+    ],
+    "scientific": "Hevea brasiliensis",
+    "family": "Euphorbiaceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Sol pleno",
+    "watering": "Alta (chuvas)",
+    "fertilizing": "Não necessita (em ambiente natural)",
+    "soilType": "Argiloso e bem drenado",
+    "height": "até 30 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Composta trifoliada",
+    "uses": [
+      "Madeireiro",
+      "Látex",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "borracha",
+      "histórica",
+      "econômica"
+    ],
+    "description": "Hevea brasiliensis L., conhecida pelos nomes comuns de seringueira e árvore-da-borracha, é uma árvore da família das Euphorbiaceae. E é muito comum de se encontrar na floresta amazônica. Apresenta folhas compostas, flores pequeninas e reunidas em amplas panículas. Sua madeira é branca e leve e, de seu látex, se fabrica a borracha. Seu fruto encontra-se em uma grande cápsula com sementes ricas em óleo, que pode servir de matéria-prima para resinas, vernizes e tintas. Por serem ricas em nutrientes, as sementes são usadas na produção de suplementos alimentares. Na atualidade, índios da região amazônica ainda alimentam-se com suas sementes.",
+    "culturalNote": "Planta histórica, impulsionou o ciclo da borracha no Brasil.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Hevea_brasiliensis",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "acai-solteiro",
+    "name": "Açaí-solteiro",
+    "otherNames": [
+      "açaí-da-mata",
+      "açaí-verdadeiro"
+    ],
+    "scientific": "Euterpe precatoria",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": [
+      "Amazônia",
+      "Mata Atlântica"
+    ],
+    "region": "Norte, Nordeste, Centro-Oeste, Sudeste",
+    "climate": [
+      "Equatorial",
+      "Tropical"
+    ],
+    "light": "Meia-sombra a sol pleno",
+    "watering": "Alta",
+    "fertilizing": "Mensal com orgânico (em cultivo)",
+    "soilType": "Humoso e úmido",
+    "height": "até 20 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Pinada",
+    "uses": [
+      "Alimentar",
+      "Madeireiro",
+      "Paisagismo",
+      "Artesanato"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "frutífera",
+      "palmeira",
+      "biodiversidade"
+    ],
+    "description": "O açaizeiro, açaí-do-amazonas ou açaí-solitário é uma espécie botânica de palmeira, nativa da América do Sul, especificamente da Amazônia. Está distribuída também por América Central, as Antilhas e por a bacia Amazônica.",
+    "culturalNote": "Importante fonte de alimento e renda para comunidades amazônicas.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Euterpe_precatoria",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "pupunha",
+    "name": "Pupunha",
+    "otherNames": [
+      "pupunheira",
+      "palmito-pupunha"
+    ],
+    "scientific": "Bactris gasipaes",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": [
+      "Amazônia",
+      "Mata Atlântica"
+    ],
+    "region": "Norte, Nordeste, Centro-Oeste, Sudeste",
+    "climate": [
+      "Equatorial",
+      "Tropical"
+    ],
+    "light": "Sol pleno",
+    "watering": "Regular",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Bem drenado, fértil",
+    "height": "até 20 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Pinada",
+    "uses": [
+      "Alimentar",
+      "Madeireiro",
+      "Paisagismo",
+      "Artesanato"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "frutífera",
+      "palmeira",
+      "sustentável"
+    ],
+    "description": "Bactris gasipaes (Kunth) é uma espécie de palmeira multicaule da família Arecaceae, cujo fruto é conhecido por pupunha ou babunha. A espécie é nativa da região amazônica, onde é conhecida popularmente pelos nomes pupunheira e pupunha-verde-amarela. Uma planta da família Arecaceae, da qual se aproveitam diversos aspectos: frutos e palmito como alimento; palhas em cestaria e em cobertura de habitações; flores como tempero; estipe em artesanato e construções; e as amêndoas para extração de óleo.",
+    "culturalNote": "Palmeira versátil, com frutos e palmito muito apreciados na culinária.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Bactris_gasipaes",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "tucuma",
+    "name": "Tucumã",
+    "otherNames": [
+      "tucumã-do-amazonas"
+    ],
+    "scientific": "Astrocaryum aculeatum",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Sol pleno",
+    "watering": "Moderada",
+    "fertilizing": "Anual com orgânico",
+    "soilType": "Arenoso e bem drenado",
+    "height": "até 15 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Pinada, espinhosa",
+    "uses": [
+      "Alimentar",
+      "Artesanato",
+      "Óleo"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "frutífera",
+      "palmeira",
+      "espinhosa"
+    ],
+    "description": "O Tucumã (Astrocaryum aculeatum) é uma palmeira nativa da Amazônia, conhecida por seus frutos de polpa alaranjada e sabor característico, muito apreciados na culinária regional. A palmeira possui um tronco espinhoso e suas folhas são utilizadas no artesanato. O óleo extraído de suas sementes tem usos cosméticos e alimentícios, tornando-a uma planta de múltiplos recursos para as comunidades locais.",
+    "culturalNote": "Fruto amazônico com polpa rica e sabor marcante, usado em diversas receitas.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Astrocaryum_aculeatum",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "cupuacu",
+    "name": "Cupuaçu",
+    "otherNames": [
+      "cupuaçuzeiro"
+    ],
+    "scientific": "Theobroma grandiflorum",
+    "family": "Malvaceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Meia-sombra a sol pleno",
+    "watering": "Alta",
+    "fertilizing": "Mensal com orgânico",
+    "soilType": "Humoso e bem drenado",
+    "height": "5-15 m",
+    "flowerColor": "Vermelho-arroxeado",
+    "leafType": "Simples, oblonga",
+    "uses": [
+      "Alimentar",
+      "Cosmético",
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "frutífera",
+      "saborosa",
+      "econômica"
+    ],
+    "description": "Theobroma grandiflorum, comumente conhecido como cupuaçu, é uma árvore da floresta tropical relacionada ao cacau. Nativo e comum em toda a bacia amazônica, é cultivado naturalmente nas selvas do norte do Brasil, com maior produção no Pará, Amazonas e Amapá, Colômbia, e também na Bolívia e Peru. A polpa do fruto do cupuaçu é consumida em toda a América Central e América do Sul, principalmente nos estados do norte do Brasil, e é utilizada para fazer sorvetes, salgadinhos, e outros produtos.",
+    "culturalNote": "Fruto amazônico com sabor exótico, base para doces, sucos e cosméticos.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Theobroma_grandiflorum",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "bacaba",
+    "name": "Bacaba",
+    "otherNames": [
+      "bacabeira"
+    ],
+    "scientific": "Oenocarpus bacaba",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Alta",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Humoso e úmido",
+    "height": "até 20 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Pinada",
+    "uses": [
+      "Alimentar",
+      "Óleo",
+      "Artesanato"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "frutífera",
+      "palmeira",
+      "energética"
+    ],
+    "description": "A bacaba, bacaba-açu ou bacaba-verdadeira é uma palmeira nativa da Amazônia. Distribui-se por toda Bacia Amazônica, com maior freqüência no Amazonas, Pará, Acre, Tocantins e no sul do Maranhão. Possui como habitat a mata virgem alta de terra firme. Também se acha na floresta do Pacífico, no oeste da Colômbia. É uma palmeira monocaule de porte alto e estipe liso. Pode atingir até 20 metros de altura e 20 a 25cm de diâmetro.",
+    "culturalNote": "Fruto amazônico que produz um azeite saboroso e nutritivo.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Oenocarpus_bacaba",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "murumuru",
+    "name": "Murumuru",
+    "otherNames": [
+      "murumuruzeiro"
+    ],
+    "scientific": "Astrocaryum murumuru",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Alta",
+    "fertilizing": "Anual com orgânico",
+    "soilType": "Argiloso e úmido",
+    "height": "até 10 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Pinada, espinhosa",
+    "uses": [
+      "Cosmético",
+      "Alimentar",
+      "Óleo",
+      "Artesanato"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "palmeira",
+      "cosmética",
+      "sustentável"
+    ],
+    "description": "Murumuru ou palmeira murumuru é uma planta tropical amplamente encontrada na região amazônica da América do Sul, especialmente na bacia do rio Amazonas, abrangendo o Brasil, Bolívia e Peru. O fruto do murumuru é explorado por meio do extrativismo estados do Amapá, Amazonas e Pará no Brasil, e vendido para a indústria de cosméticos. O resultado do processo de beneficiamento da semente de murumuru pode resultar na manteiga de murumuru e no óleo de murumuru. Esses produtos são usados como ingredientes hidratantes, óleos capilares e outros produtos de beleza pela indústria de cosméticos.",
+    "culturalNote": "Palmeira amazônica com manteiga valorizada na indústria cosmética.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Astrocaryum_murumuru",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "piquia",
+    "name": "Piquiá",
+    "otherNames": [
+      "pequiá",
+      "piquiá-verdadeiro"
+    ],
+    "scientific": "Caryocar villosum",
+    "family": "Caryocaraceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Sol pleno",
+    "watering": "Moderada",
+    "fertilizing": "Não necessita (em ambiente natural)",
+    "soilType": "Argiloso e bem drenado",
+    "height": "até 40 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Composta trifoliada",
+    "uses": [
+      "Alimentar",
+      "Madeireiro",
+      "Óleo"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "frutífera",
+      "madeira",
+      "saborosa"
+    ],
+    "description": "Pequiá, é uma árvore típica da floresta pluvial da Amazônia, da família das cariocaráceas, com frutos e lenho semelhantes ao pequi. Nativa do Brasil, é encontrada nos estados ddo Amazonas, Roraima, Amapá, Pará, Maranhão, Rondônia e Mato Grosso. Também é encontrada na Guiana Francesa.",
+    "culturalNote": "Fruto amazônico com polpa oleosa e sabor marcante, muito apreciado.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Caryocar_villosum",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "orquidea-de-sao-paulo",
+    "name": "Orquídea-de-são-paulo",
+    "otherNames": [
+      "Rainha do Sertão"
+    ],
+    "scientific": "Cattleya labiata Lindl.",
+    "family": "Orchidaceae",
+    "type": "Orquídea",
+    "biome": "Caatinga",
+    "region": "Nordeste (Ceará, Paraíba, Pernambuco, Alagoas, Sergipe, Bahia) e Espírito Santo",
+    "climate": "Tropical, Semiárido",
+    "light": "Meia-sombra (protegida do sol intenso)",
+    "watering": "Semanal (moderada)",
+    "fertilizing": "Mensal com NPK equilibrado",
+    "soilType": "Não se aplica (epífita/litófita)",
+    "height": "12-18 polegadas (30-45 cm)",
+    "flowerColor": "Lilás-médio (diversas tonalidades), branco, azulado, ametista, róseo",
+    "leafType": "Unifoliada, oblongo-elíptica, grossa e coriácea",
+    "uses": [
+      "Ornamental"
+    ],
+    "tags": [
+      "nativa",
+      "epífita",
+      "ornamental",
+      "perfumada",
+      "endêmica"
+    ],
+    "description": "A Cattleya labiata, conhecida como Orquídea-de-são-paulo ou Rainha do Sertão, é uma orquídea epífita ou litófita nativa do Nordeste do Brasil e Espírito Santo. Suas flores exuberantes, que desabrocham no final do verão e início do outono, são grandes e perfumadas, variando em tonalidades de lilás. É uma espécie vigorosa, adaptada a brejos de altitude em meio à caatinga, e foi a primeira Cattleya catalogada e descrita.",
+    "culturalNote": "Considerada a 'Rainha do Sertão', é um símbolo de beleza e resistência no Nordeste brasileiro.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Cattleya_labiata",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "cactus-mandacaru",
+    "name": "Cactus-mandacaru",
+    "otherNames": [
+      "Cardeiro",
+      "Jamacaru"
+    ],
+    "scientific": "Cereus jamacaru DC.",
+    "family": "Cactaceae",
+    "type": "Cacto",
+    "biome": "Caatinga",
+    "region": "Semiárido do Nordeste (Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Bahia)",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Trimestral com orgânico (esterco de curral)",
+    "soilType": "Arenoso e bem drenado",
+    "height": "5–6 m",
+    "flowerColor": "Branco",
+    "leafType": "Espinhos (folhas modificadas)",
+    "uses": [
+      "Alimentar",
+      "Forrageiro",
+      "Medicinal",
+      "Paisagismo",
+      "Artesanato"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "resistente",
+      "forrageira",
+      "frutífera"
+    ],
+    "description": "O mandacaru (Cereus jamacaru) é um cacto arbustivo e xerófito, nativo do semiárido brasileiro, especialmente da Caatinga. Pode atingir até seis metros de altura, com caules colunares e ramificados. Suas flores brancas desabrocham à noite e murcham ao nascer do sol, e seus frutos roxos são comestíveis. É uma planta de grande importância cultural e econômica, utilizada na alimentação humana e animal, e em tradições indígenas.",
+    "culturalNote": "Símbolo da Caatinga, o mandacaru é essencial para a sobrevivência no semiárido e inspira a cultura local.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Mandacaru",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "umburana-de-espinho",
+    "name": "Imburana",
+    "otherNames": [
+      "Umburana-de-espinho",
+      "Imbu falso"
+    ],
+    "scientific": "Commiphora leptophloeos (Mart.) J.B. Gillett",
+    "family": "Burseraceae",
+    "type": "Árvore",
+    "biome": "Caatinga, Pantanal",
+    "region": "Nordeste, Centro-Oeste (ocorre na Caatinga e Pantanal)",
+    "climate": "Semiárido, Tropical",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Calcário, bem drenado e profundo",
+    "height": "6–9 m",
+    "flowerColor": "Verde bem claro",
+    "leafType": "Composta (3 a 9 folíolos), decídua",
+    "uses": [
+      "Medicinal",
+      "Alimentar",
+      "Ornamental",
+      "Apicultura"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "pantanal",
+      "medicinal",
+      "frutífera"
+    ],
+    "description": "A Imburana (Commiphora leptophloeos), também conhecida como Umburana-de-espinho, é uma árvore resinosa nativa da Caatinga e do Pantanal brasileiro. Com ramos tortuosos e espinhos, atinge de 6 a 9 metros de altura. Suas flores pequenas e frutos globosos comestíveis, que amadurecem na estação chuvosa, são importantes para a fauna local. A casca lisa se desprende em lâminas finas, mudando de cor com a idade, e a planta é valorizada por suas propriedades medicinais e uso ornamental.",
+    "culturalNote": "Seu nome tupi significa 'falso imbu', e é valorizada por suas propriedades medicinais e frutos comestíveis.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Imburana",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "coroa-de-frade",
+    "name": "Coroa-de-frade",
+    "otherNames": [],
+    "scientific": "Melocactus bahiensis (Britton & Rose) Luetzelb.",
+    "family": "Cactaceae",
+    "type": "Cacto",
+    "biome": "Caatinga",
+    "region": "Leste do Brasil (Bahia)",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso e bem drenado",
+    "height": "até 15 cm",
+    "flowerColor": "Rosa, roxo",
+    "leafType": "Espinhos",
+    "uses": [
+      "Ornamental"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "resistente",
+      "ornamental",
+      "endêmica"
+    ],
+    "description": "A Coroa-de-frade (Melocactus bahiensis) é uma espécie de cacto endêmica do leste do Brasil, especialmente da Bahia. Caracteriza-se por seu formato globular e um cefálio distinto no topo, que produz flores e frutos. É uma planta adaptada a ambientes semiáridos, sendo valorizada principalmente por seu uso ornamental. É uma espécie comum em áreas localizadas de seu habitat natural.",
+    "culturalNote": "Seu formato peculiar, com o cefálio que lembra uma coroa, confere-lhe o nome popular de Coroa-de-frade.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Melocactus_bahiensis",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "palma-forrageira",
+    "name": "Palma-forrageira",
+    "otherNames": [
+      "Figueira-da-índia",
+      "Nopal",
+      "Tuna"
+    ],
+    "scientific": "Opuntia ficus-indica (L.) Mill.",
+    "family": "Cactaceae",
+    "type": "Cacto",
+    "biome": "Caatinga",
+    "region": "Nordeste do Brasil",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso e bem drenado",
+    "height": "1,5–3 m",
+    "flowerColor": "Amarelo ou laranja",
+    "leafType": "Espinhos",
+    "uses": [
+      "Alimentar",
+      "Forrageiro",
+      "Medicinal",
+      "Paisagismo"
+    ],
+    "tags": [
+      "nativa",
+      "resistente",
+      "forrageira",
+      "frutífera",
+      "semiárido"
+    ],
+    "description": "A palma-forrageira (Opuntia ficus-indica), também conhecida como figueira-da-índia ou nopal, é um cacto suculento de porte arbustivo, originário do México e sudoeste dos Estados Unidos, mas amplamente cultivado em regiões semiáridas do Brasil. Atinge entre 1,5 e 3 metros de altura, com ramos achatados e espinhosos. Suas flores são amarelas ou laranjas, e seus frutos, as tunas, são amarelos-avermelhados e ricos em fibras, vitamina A e ferro. É uma planta de grande importância alimentar, forrageira e medicinal.",
+    "culturalNote": "Essencial para a subsistência em regiões semiáridas, a palma-forrageira é um alimento versátil para humanos e animais, e um símbolo de resiliência.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Opuntia_ficus-indica",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "xique-xique",
+    "name": "Xique-xique",
+    "otherNames": [
+      "Alastrado",
+      "Xinane"
+    ],
+    "scientific": "Xiquexique gounellei (F.A.C.Weber ex K.Schum.) Luetzelb.",
+    "family": "Cactaceae",
+    "type": "Cacto",
+    "biome": "Caatinga",
+    "region": "Nordeste do Brasil",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso e bem drenado",
+    "height": "Até 2 m (rasteiro ou em touceiras)",
+    "flowerColor": "Não especificado (flores pequenas, geralmente brancas ou rosadas)",
+    "leafType": "Espinhos (caule espinhoso)",
+    "uses": [
+      "Forrageiro",
+      "Medicinal",
+      "Artesanato"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "resistente",
+      "forrageira",
+      "ornamental"
+    ],
+    "description": "O xique-xique (Xiquexique gounellei), anteriormente conhecido como Pilosocereus gounellei ou Cereus gounellei, é um cacto característico da caatinga brasileira. Seu caule espinhoso e rico em água desempenha as funções da folha, sendo cilíndrico-anguloso e crescendo em touceiras. É uma planta adaptada ao clima semiárido, com usos tradicionais como forragem para animais e em algumas aplicações medicinais populares.",
+    "culturalNote": "Planta icônica da Caatinga, o xique-xique é um símbolo de resistência e adaptação ao semiárido.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Cereus_gounellei",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "facheiro",
+    "name": "Facheiro",
+    "otherNames": [
+      "Facheiro-azul",
+      "Mandacaru-de-facho"
+    ],
+    "scientific": "Pilosocereus pachycladus F.Ritter",
+    "family": "Cactaceae",
+    "type": "Cacto",
+    "biome": "Caatinga",
+    "region": "Nordeste do Brasil (Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe e Bahia)",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso e bem drenado",
+    "height": "até 10 m",
+    "flowerColor": "Branco",
+    "leafType": "Espinhos",
+    "uses": [
+      "Ornamental",
+      "Forrageiro"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "resistente",
+      "forrageira",
+      "ornamental"
+    ],
+    "description": "O facheiro (Pilosocereus pachycladus) é um cacto colunar endêmico da região Nordeste do Brasil, característico da Caatinga. Atinge até dez metros de altura, com ramificações verde-escuras e espinhos proeminentes. É uma planta xerófita, adaptada a ambientes secos, e é valorizada tanto para ornamentação quanto como suprimento alimentar para animais em períodos de estiagem, desempenhando um papel ecológico e econômico importante na região.",
+    "culturalNote": "Símbolo de resistência no semiárido, o facheiro é essencial para a subsistência e paisagem da Caatinga.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Facheiro",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "catingueira",
+    "name": "Catingueira",
+    "otherNames": [],
+    "scientific": "Poincianella pyramidalis (Tul.) L.P.Queiroz",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Caatinga",
+    "region": "Nordeste do Brasil",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso e bem drenado",
+    "height": "3–8 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Composta bipinada, caduca",
+    "uses": [
+      "Madeireiro",
+      "Forrageiro",
+      "Apicultura",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "resistente",
+      "madeira",
+      "melífera"
+    ],
+    "description": "A Catingueira (Poincianella pyramidalis), anteriormente conhecida como Caesalpinia pyramidalis, é uma árvore nativa da Caatinga brasileira. É uma espécie caducifólia, perdendo suas folhas na estação seca, e possui flores amarelas. Sua madeira é de boa qualidade, sendo utilizada para lenha e carvão. É também uma importante fonte de alimento para o gado e para abelhas, contribuindo para a apicultura na região. A Catingueira é um símbolo da flora da Caatinga, adaptada às condições de seca.",
+    "culturalNote": "Árvore símbolo da Caatinga, sua madeira e flores são essenciais para a economia e ecologia local.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Catingueira",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "quipa",
+    "name": "Quipá",
+    "otherNames": [
+      "Palmatória",
+      "Palmatória Miúda",
+      "Cumbeba"
+    ],
+    "scientific": "Tacinga inamoena (K.Schum.) N.P.Taylor & Stuppy",
+    "family": "Cactaceae",
+    "type": "Cacto",
+    "biome": "Caatinga",
+    "region": "Leste do Brasil (Minas Gerais, Maranhão, Tocantins, Bahia)",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso e bem drenado",
+    "height": "até 50 cm (rasteira)",
+    "flowerColor": "Vermelho ou laranja",
+    "leafType": "Espinhos",
+    "uses": [
+      "Alimentar",
+      "Forrageiro",
+      "Ornamental"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "resistente",
+      "frutífera",
+      "endêmica"
+    ],
+    "description": "A Quipá (Tacinga inamoena) é um cacto endêmico do Brasil, encontrado principalmente na Caatinga e em áreas rochosas. Cresce de forma arbustiva e rasteira, atingindo até 50 centímetros de altura e 3,5 metros de diâmetro. Suas flores são vermelhas ou laranjas, e seus frutos são comestíveis após a remoção dos espinhos. É utilizada na alimentação humana e animal, e seu nome popular 'pelo' refere-se aos espinhos minúsculos dos frutos.",
+    "culturalNote": "Conhecida como 'pelo' devido aos espinhos dos frutos, é usada na culinária local para doces e sorvetes.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Tacinga_inamoena",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "tillandsia-stricta",
+    "name": "Cravo-do-mato",
+    "otherNames": [
+      "Tilandísia",
+      "Gravatazinho",
+      "Arre-diabo"
+    ],
+    "scientific": "Tillandsia stricta Solander",
+    "family": "Bromeliaceae",
+    "type": "Bromélia",
+    "biome": "Caatinga, Mata Atlântica, Cerrado",
+    "region": "Todo o Brasil",
+    "climate": "Tropical, Subtropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal (pulverização)",
+    "fertilizing": "Mensal (pulverização foliar)",
+    "soilType": "Não se aplica (epífita)",
+    "height": "5–20 cm",
+    "flowerColor": "Azul, roxo, amarelo, rosa, vermelho",
+    "leafType": "Variável (cerosas, macias, rígidas, verdes a prateadas)",
+    "uses": [
+      "Ornamental",
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "epífita",
+      "ornamental",
+      "medicinal",
+      "bromélia"
+    ],
+    "description": "A Tillandsia stricta, popularmente conhecida como cravo-do-mato, é uma bromélia epífita de pequeno porte nativa da América do Sul e Central, incluindo o Brasil. Suas folhas cerosas variam em cor e textura, e suas inflorescências exibem flores de curta duração em tons de azul, roxo ou amarelo, com brácteas coloridas que persistem por semanas. Além de seu valor ornamental, é tradicionalmente utilizada na bacia do Rio Paraná por suas propriedades diuréticas e anti-inflamatórias.",
+    "culturalNote": "Conhecida como 'cravo-do-mato', é valorizada por sua beleza e usos medicinais tradicionais.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Tillandsia_stricta",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "araucaria-angustifolia",
+    "name": "Araucária",
+    "otherNames": [
+      "Pinheiro-do-paraná",
+      "Pinheiro-brasileiro",
+      "Curiúva"
+    ],
+    "scientific": "Araucaria angustifolia (Bertol.) Kuntze, 1898",
+    "family": "Araucariaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Sul do Brasil, São Paulo, Minas Gerais, Rio de Janeiro, Argentina, Paraguai",
+    "climate": "Temperado",
+    "light": "Sol pleno",
+    "watering": "Moderada",
+    "fertilizing": "Não necessita",
+    "soilType": "Profundos, férteis e bem drenados",
+    "height": "10-35 m",
+    "flowerColor": "Sem flor aparente",
+    "leafType": "Coriácea perene",
+    "uses": [
+      "Alimentar",
+      "Madeireiro",
+      "Paisagismo",
+      "Sombra",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "ameaçada",
+      "frutífera",
+      "conífera",
+      "mata atlântica"
+    ],
+    "description": "A Araucária (Araucaria angustifolia) é a espécie arbórea dominante da floresta ombrófila mista, ocorrendo majoritariamente na região Sul do Brasil. Conífera dioica, perenifólia e heliófita, pode atingir alturas de 50 m. É intensamente explorada pelo seu alto valor econômico, dando madeira e sementes nutritivas (pinhão), e hoje seu território está reduzido a uma fração mínima, o que a coloca em Perigo Crítico de Extinção. Sua forma única e imponente a torna um símbolo paisagístico e cultural do sul do Brasil.",
+    "culturalNote": "Símbolo do Sul do Brasil, seu pinhão é um alimento tradicional e nutritivo.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Araucaria_angustifolia",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "butia",
+    "name": "Butiá",
+    "otherNames": [
+      "Palmeira-butiá",
+      "Coquinho-azedo",
+      "Butiá-da-praia"
+    ],
+    "scientific": "Butia odorata (Barb.Rodr.) Noblick, 2011",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Pampa",
+    "region": "Sul do Brasil (Rio Grande do Sul), Uruguai",
+    "climate": "Subtropical",
+    "light": "Sol pleno",
+    "watering": "Regular",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso, rochoso, bem drenado",
+    "height": "até 10 m",
+    "flowerColor": "Amarelo, alaranjado, roxo ou esverdeado-amarelado",
+    "leafType": "Pinada",
+    "uses": [
+      "Alimentar",
+      "Ornamental",
+      "Paisagismo"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "palmeira",
+      "subtropical",
+      "pampa"
+    ],
+    "description": "O Butiá (Butia odorata) é uma palmeira nativa do sul do Brasil e Uruguai, conhecida por seus frutos comestíveis e aromáticos. Atinge até 10 metros de altura e possui folhas pinadas arqueadas. Seus frutos, que variam em sabor de doce a azedo, são consumidos in natura e utilizados em diversas preparações culinárias. A palmeira é valorizada por seu uso ornamental em jardins e pela importância cultural e alimentar em sua região de origem.",
+    "culturalNote": "Fruto com sabor único, utilizado na culinária e com uso pré-histórico na região do Lago Merín.",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Butia_odorata",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "cedro-rosa",
+    "name": "Cedro-rosa",
+    "otherNames": [
+      "Cedro-cheiroso",
+      "Cedro-espanhol",
+      "Cedro-vermelho"
+    ],
+    "scientific": "Cedrela odorata L.",
+    "family": "Meliaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Todo o Brasil (México à Argentina)",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Regular",
+    "fertilizing": "Não necessita",
+    "soilType": "Adaptável, bem drenado",
+    "height": "até 35 m",
+    "flowerColor": "Amarelo-pálido",
+    "leafType": "Composta pinada",
+    "uses": [
+      "Madeireiro",
+      "Perfumaria",
+      "Reflorestamento",
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "madeira nobre",
+      "aromática",
+      "ameaçada",
+      "reflorestamento"
+    ],
+    "description": "O Cedro-rosa (Cedrela odorata), também conhecido como cedro-cheiroso, é uma árvore da família Meliaceae com ampla distribuição natural, ocorrendo do México à Argentina, incluindo os biomas brasileiros da Mata Atlântica, Amazônia e Caatinga. Atinge até 35 metros de altura e é valorizada por sua madeira de excelente qualidade, utilizada na produção de móveis e na construção naval. Suas folhas são compostas e suas flores amarelo-pálidas. Devido à exploração excessiva, a espécie está ameaçada de extinção, sendo importante para projetos de reflorestamento.",
+    "culturalNote": "Madeira nobre e aromática, muito valorizada na marcenaria e perfumaria.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Cedro-cheiroso",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "erva-mate-nativa",
+    "name": "Erva-mate-nativa",
+    "otherNames": [
+      "Mate",
+      "Congonha",
+      "Chá-mate"
+    ],
+    "scientific": "Ilex paraguariensis A.St.-Hil., 1822",
+    "family": "Aquifoliaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Sul do Brasil, Paraguai, Argentina, Uruguai, Bolívia, Chile",
+    "climate": "Subtropical",
+    "light": "Meia-sombra",
+    "watering": "Regular",
+    "fertilizing": "Não necessita",
+    "soilType": "Úmido e bem drenado",
+    "height": "até 12 m",
+    "flowerColor": "Branco",
+    "leafType": "Simples ovais",
+    "uses": [
+      "Alimentar",
+      "Medicinal",
+      "Paisagismo",
+      "Apicultura"
+    ],
+    "tags": [
+      "nativa",
+      "bebida",
+      "cultural",
+      "estimulante",
+      "subtropical"
+    ],
+    "description": "A Erva-mate (Ilex paraguariensis) é uma árvore nativa da região subtropical da América do Sul, amplamente conhecida por suas folhas utilizadas na preparação de chimarrão, tereré e chá mate. Possui grande importância cultural e econômica no Sul do Brasil e países vizinhos. A planta pode atingir até 12 metros de altura e prefere ambientes de meia-sombra quando jovem. Suas folhas são ricas em alcaloides, vitaminas e sais minerais, conferindo-lhe propriedades estimulantes e medicinais.",
+    "culturalNote": "Base para o chimarrão e tereré, bebidas tradicionais e símbolos de hospitalidade no Sul do Brasil.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Erva-mate",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "goiaba-serrana",
+    "name": "Goiaba-serrana",
+    "otherNames": [
+      "Feijoa",
+      "Goiaba-do-mato",
+      "Goiaba-ananás"
+    ],
+    "scientific": "Acca sellowiana (O.Berg) Burret",
+    "family": "Myrtaceae",
+    "type": "Arbusto",
+    "biome": "Mata Atlântica",
+    "region": "Sul do Brasil, Uruguai, Paraguai, Argentina, Colômbia",
+    "climate": "Subtropical",
+    "light": "Sol pleno",
+    "watering": "Regular",
+    "fertilizing": "Não necessita",
+    "soilType": "Bem drenado",
+    "height": "1-7 m",
+    "flowerColor": "Branco e rosa",
+    "leafType": "Perene",
+    "uses": [
+      "Alimentar",
+      "Ornamental",
+      "Paisagismo"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "subtropical",
+      "ornamental"
+    ],
+    "description": "A Goiaba-serrana, também conhecida como Feijoa ou Acca sellowiana, é um arbusto ou pequena árvore nativa das terras altas do sul do Brasil, Uruguai, Paraguai, Argentina e Colômbia. Pertencente à família Myrtaceae, é valorizada por seus frutos comestíveis de sabor agridoce e suas flores ornamentais com pétalas brancas e rosadas e estames vermelhos. A planta é perene e pode atingir até 7 metros de altura, sendo cultivada tanto para consumo quanto para paisagismo.",
+    "culturalNote": "Fruto saboroso e ornamental, apreciado em regiões subtropicais.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Feijoa",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "guabiroba",
+    "name": "Guabiroba",
+    "otherNames": [
+      "Gabiroba-de-árvore",
+      "Guavirova",
+      "Gabiroba"
+    ],
+    "scientific": "Campomanesia xanthocarpa (Mart.) O.Berg",
+    "family": "Myrtaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Minas Gerais, Mato Grosso do Sul, Rio Grande do Sul",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Regular",
+    "fertilizing": "Não necessita",
+    "soilType": "Adaptável, bem drenado",
+    "height": "4-15 m",
+    "flowerColor": "Branco",
+    "leafType": "Semidecídua",
+    "uses": [
+      "Alimentar",
+      "Paisagismo"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "cerrado",
+      "mata atlântica"
+    ],
+    "description": "A Guabiroba (Campomanesia xanthocarpa) é uma árvore semidecídua nativa da América do Sul, amplamente distribuída no Brasil, especialmente nos biomas Cerrado e Mata Atlântica. Seus frutos arredondados, lisos, amarelos ou alaranjados, possuem polpa suculenta e sabor doce, sendo muito apreciados in natura. A planta atinge de 4 a 15 metros de altura e se destaca por sua copa densa e alongada, sendo também utilizada no paisagismo.",
+    "culturalNote": "Fruto nativo muito apreciado, com sabor doce e suculento.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Campomanesia_xanthocarpa",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "inga-edulis",
+    "name": "Ingá",
+    "otherNames": [
+      "Ingá-cipó",
+      "Ingá-doce",
+      "Ingá-macarrão"
+    ],
+    "scientific": "Inga edulis Mart.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "América do Sul, América Central (Brasil, Peru, Equador, Venezuela, Colômbia)",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Regular",
+    "fertilizing": "Não necessita",
+    "soilType": "Adaptável, bem drenado",
+    "height": "até 30 m",
+    "flowerColor": "Branco",
+    "leafType": "Composta pinada",
+    "uses": [
+      "Alimentar",
+      "Medicinal",
+      "Sombra",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "fixação de nitrogênio",
+      "agrofloresta",
+      "medicinal"
+    ],
+    "description": "O Ingá (Inga edulis), também conhecido como ingá-cipó, é uma árvore nativa da América do Sul e Central, que pode atingir até 30 metros de altura. Seus frutos são vagens com uma polpa branca e adocicada, consumida in natura e utilizada em bebidas. A planta é valorizada por sua capacidade de fixar nitrogênio no solo, sendo amplamente empregada em sistemas agroflorestais como árvore de sombra e para recuperação de áreas degradadas. Possui também usos medicinais e alimentares, sendo um recurso importante para as comunidades locais.",
+    "culturalNote": "Fruto com polpa doce e macia, sabor de sorvete de baunilha, muito apreciado.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Inga_edulis",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "jabuticaba",
+    "name": "Jabuticaba",
+    "otherNames": [
+      "Jaboticaba",
+      "Brazilian grapetree"
+    ],
+    "scientific": "Plinia cauliflora (Mart.) Kausel, 1956",
+    "family": "Myrtaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Brasil (Mata Atlântica), México, Bolívia, Uruguai, Paraguai, Argentina",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Regular",
+    "fertilizing": "Mensal com NPK equilibrado",
+    "soilType": "Humoso e fértil",
+    "height": "até 10 m",
+    "flowerColor": "Branco",
+    "leafType": "Simples",
+    "uses": [
+      "Alimentar",
+      "Paisagismo",
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "mata atlântica",
+      "caulifloria",
+      "ornamental"
+    ],
+    "description": "A jabuticaba (Plinia cauliflora) é uma árvore frutífera brasileira, nativa da Mata Atlântica. Conhecida por seus frutos que nascem diretamente no tronco e ramos (caulifloria), a jabuticabeira pode atingir até 10 metros de altura. Seus frutos, de casca negra e polpa branca, são consumidos in natura, em geleias, sucos e licores. A planta é valorizada tanto por seu valor alimentar quanto ornamental e medicinal.",
+    "culturalNote": "Fruto emblemático do Brasil, que nasce no tronco da árvore, símbolo de abundância.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Jabuticaba",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "jeriva",
+    "name": "Jerivá",
+    "otherNames": [
+      "Baba-de-boi",
+      "Coqueiro-jerivá",
+      "Coquinho-meleca"
+    ],
+    "scientific": "Syagrus romanzoffiana (Cham.) Glassman",
+    "family": "Arecaceae",
+    "type": "Palmeira",
+    "biome": "Mata Atlântica",
+    "region": "Todo o Brasil (Sudeste, Sul, Centro-Oeste, Nordeste)",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Regular",
+    "fertilizing": "Não necessita",
+    "soilType": "Adaptável, bem drenado",
+    "height": "6-30 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Pinada perene",
+    "uses": [
+      "Alimentar",
+      "Paisagismo",
+      "Madeireiro",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "palmeira",
+      "ornamental",
+      "dispersão animal"
+    ],
+    "description": "O Jerivá (Syagrus romanzoffiana) é uma palmeira nativa da Mata Atlântica e de ecossistemas associados no Brasil, podendo atingir até 30 metros de altura. Seus frutos, conhecidos como coquinhos, são comestíveis e apreciados por diversos animais e humanos. A planta possui um tronco solitário e folhas pinadas perenes, sendo amplamente utilizada no paisagismo urbano e em projetos de reflorestamento devido à sua resistência e adaptabilidade. Sua madeira também é empregada em construções rurais.",
+    "culturalNote": "Coquinho de sabor adocicado, lembrança da infância no interior do Brasil.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Jeriv%C3%A1",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "pitanga",
+    "name": "Pitanga",
+    "otherNames": [
+      "Cerejeira-brasileira",
+      "Suriname cherry",
+      "Cayenne cherry"
+    ],
+    "scientific": "Eugenia uniflora L.",
+    "family": "Myrtaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Todo o Brasil (Mata Atlântica), América do Sul, América Central, Caribe, África",
+    "climate": "Subtropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Regular",
+    "fertilizing": "Não necessita",
+    "soilType": "Adaptável, bem drenado",
+    "height": "2-12 m",
+    "flowerColor": "Branco",
+    "leafType": "Perene",
+    "uses": [
+      "Alimentar",
+      "Medicinal",
+      "Paisagismo",
+      "Apicultura",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "frutífera",
+      "mata atlântica",
+      "medicinal",
+      "ornamental"
+    ],
+    "description": "A Pitanga (Eugenia uniflora) é uma árvore nativa da Mata Atlântica brasileira, conhecida por seus frutos globosos e carnosos de sabor agridoce, que variam do vermelho ao alaranjado. A pitangueira é uma planta rústica, de pequeno a médio porte, que pode atingir até 12 metros de altura, com folhagem perene e flores brancas. Seus frutos são apreciados in natura e utilizados na medicina popular, além de ser uma excelente opção para paisagismo e recuperação de áreas degradadas, atraindo pássaros e animais silvestres.",
+    "culturalNote": "Fruto nativo de sabor marcante, muito apreciado na culinária e medicina popular brasileira.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Pitanga",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "macaranduba",
+    "name": "Maçaranduba",
+    "otherNames": [
+      "Balata",
+      "Chicle-brasileiro",
+      "Maparajuba"
+    ],
+    "scientific": "Manilkara huberi (Ducke) Standl.",
+    "family": "Sapotaceae",
+    "type": "Árvore",
+    "biome": "Amazônia, Mata Atlântica",
+    "region": "Norte, Nordeste, Centro-Oeste, Sudeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Argiloso e úmido",
+    "height": "30–50 m",
+    "flowerColor": "Branco-amarelado",
+    "leafType": "Simples, elíptica, coriácea",
+    "uses": [
+      "Madeireiro",
+      "Alimentar",
+      "Sombra",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "amazonia",
+      "madeira-de-lei",
+      "frutífera",
+      "nativa"
+    ],
+    "description": "A maçaranduba é uma árvore imponente da Amazônia e Mata Atlântica, conhecida por sua madeira de alta qualidade e durabilidade, muito utilizada na construção civil e naval. Seus frutos são comestíveis e apreciados por animais e humanos. A árvore também é fonte de látex, que pode ser usado na produção de chicle.",
+    "culturalNote": "Sua madeira é símbolo de resistência e durabilidade na cultura amazônica.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Ma%C3%A7aranduba-do-par%C3%A1",
+    "imageCredit": "Wikimedia Commons / J. M. Garg / CC BY-SA 3.0"
+  },
+  {
+    "id": "anda-acu",
+    "name": "Andá-açu",
+    "otherNames": [
+      "Andá",
+      "Purga-de-gentio",
+      "Nogueira-da-índia"
+    ],
+    "scientific": "Joannesia princeps Vell.",
+    "family": "Euphorbiaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica, Amazônia",
+    "region": "Nordeste, Sudeste, Sul",
+    "climate": "Tropical, Subtropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Mensal com NPK equilibrado",
+    "soilType": "Fértil e bem drenado",
+    "height": "10–20 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Palmada, lobada",
+    "uses": [
+      "Medicinal",
+      "Madeireiro",
+      "Ornamental"
+    ],
+    "tags": [
+      "nativa",
+      "tóxica",
+      "medicinal",
+      "ornamental"
+    ],
+    "description": "O Andá-açu é uma árvore nativa do Brasil, com ocorrência na Mata Atlântica e Amazônia. É conhecida por suas sementes que produzem um óleo com propriedades purgativas, utilizado na medicina popular, mas que deve ser manuseado com cautela devido à sua toxicidade. Sua madeira é leve e pode ser usada em artesanato.",
+    "culturalNote": "A planta é valorizada na medicina popular, mas exige cuidado devido à toxicidade de suas sementes.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/And%C3%A1-a%C3%A7u",
+    "imageCredit": "Wikimedia Commons / João de Deus Medeiros / CC BY-SA 4.0"
+  },
+  {
+    "id": "canela-sassafras",
+    "name": "Canela-sassafrás",
+    "otherNames": [
+      "Sassafrás",
+      "Canela-cheirosa",
+      "Louro-sassafrás"
+    ],
+    "scientific": "Ocotea odorifera (Vell.) Rohwer",
+    "family": "Lauraceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Sudeste, Sul",
+    "climate": "Subtropical",
+    "light": "Meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Humoso e bem drenado",
+    "height": "10–20 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Simples, elíptica, perene",
+    "uses": [
+      "Madeireiro",
+      "Medicinal",
+      "Aromaterapia",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "mata-atlantica",
+      "ameaçada",
+      "aromática",
+      "medicinal"
+    ],
+    "description": "A Canela-sassafrás é uma árvore nativa da Mata Atlântica, valorizada por sua madeira e pelo óleo essencial extraído de suas folhas e casca, com propriedades aromáticas e medicinais. Atualmente, é uma espécie ameaçada de extinção devido à exploração madeireira e à perda de habitat.",
+    "culturalNote": "Seu aroma característico evoca a riqueza e a biodiversidade da Mata Atlântica.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Ocotea_odorifera",
+    "imageCredit": "Wikimedia Commons / Mauroguanandi / CC BY-SA 3.0"
+  },
+  {
+    "id": "imbuia",
+    "name": "Imbuia",
+    "otherNames": [
+      "Imbuia-preta",
+      "Imbuia-amarela"
+    ],
+    "scientific": "Ocotea porosa (Nees & Mart.) Barroso",
+    "family": "Lauraceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Sul",
+    "climate": "Subtropical",
+    "light": "Meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Humoso e bem drenado",
+    "height": "10–20 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Simples, elíptica, perene",
+    "uses": [
+      "Madeireiro",
+      "Ornamental",
+      "Paisagismo"
+    ],
+    "tags": [
+      "mata-atlantica",
+      "madeira-de-lei",
+      "ameaçada",
+      "nativa"
+    ],
+    "description": "A Imbuia é uma árvore nativa da Mata Atlântica, especialmente da região Sul do Brasil, conhecida por sua madeira nobre e de alta qualidade, muito utilizada na fabricação de móveis e objetos de decoração. É uma espécie ameaçada de extinção devido à exploração intensiva.",
+    "culturalNote": "Sua madeira é um tesouro da Mata Atlântica, valorizada por sua beleza e durabilidade.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Ocotea_porosa",
+    "imageCredit": "Wikimedia Commons / Mauroguanandi / CC BY-SA 3.0"
+  },
+  {
+    "id": "canafistula",
+    "name": "Canafístula",
+    "otherNames": [
+      "Canafístula-verdadeira",
+      "Jatobá-de-cerca"
+    ],
+    "scientific": "Peltophorum dubium (Spreng.) Taub.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica, Cerrado, Caatinga",
+    "region": "Todo o Brasil",
+    "climate": "Tropical, Subtropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Semestral",
+    "soilType": "Variado, bem drenado",
+    "height": "10–20 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Composta bipinada, caduca",
+    "uses": [
+      "Ornamental",
+      "Madeireiro",
+      "Paisagismo",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "ornamental",
+      "madeira",
+      "melífera"
+    ],
+    "description": "A Canafístula é uma árvore nativa do Brasil, presente em diversos biomas, conhecida por sua beleza ornamental, especialmente durante a floração amarela. Sua madeira é utilizada em construções e marcenaria, e a árvore é importante para o reflorestamento e paisagismo.",
+    "culturalNote": "Sua floração amarela vibrante ilumina as paisagens brasileiras.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Peltophorum_dubium",
+    "imageCredit": "Wikimedia Commons / Mauroguanandi / CC BY-SA 3.0"
+  },
+  {
+    "id": "timbauba",
+    "name": "Timbaúba",
+    "otherNames": [
+      "Tamboril",
+      "Orelha-de-negro",
+      "Orelha-de-macaco"
+    ],
+    "scientific": "Enterolobium contortisiliquum (Vell.) Morong",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica, Cerrado, Caatinga",
+    "region": "Todo o Brasil",
+    "climate": "Tropical, Subtropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Variado, bem drenado",
+    "height": "10–20 m",
+    "flowerColor": "Branco-esverdeado",
+    "leafType": "Composta bipinada, caduca",
+    "uses": [
+      "Madeireiro",
+      "Medicinal",
+      "Paisagismo",
+      "Sombra",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "madeira",
+      "medicinal",
+      "ornamental"
+    ],
+    "description": "A Timbaúba é uma árvore nativa do Brasil, amplamente distribuída em diversos biomas. É reconhecida por sua copa ampla e seus frutos em forma de 'orelha', que dão origem a um de seus nomes populares. Sua madeira é utilizada em diversas aplicações e a árvore é valorizada no paisagismo e reflorestamento.",
+    "culturalNote": "Seus frutos peculiares inspiraram o nome popular 'orelha-de-negro'.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Enterolobium_contortisiliquum",
+    "imageCredit": "Wikimedia Commons / J. M. Garg / CC BY-SA 3.0"
+  },
+  {
+    "id": "amendoim-bravo",
+    "name": "Amendoim-bravo",
+    "otherNames": [
+      "Cocal",
+      "Madeira-nova",
+      "Ibiraró"
+    ],
+    "scientific": "Pterogyne nitens Tul.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica, Cerrado, Caatinga",
+    "region": "Nordeste, Sudeste, Sul, Centro-Oeste",
+    "climate": "Tropical, Subtropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Variado, bem drenado",
+    "height": "6–20 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Composta pinada, caduca",
+    "uses": [
+      "Madeireiro",
+      "Ornamental",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "madeira",
+      "ornamental",
+      "ameaçada"
+    ],
+    "description": "O Amendoim-bravo é uma árvore nativa do Brasil, com ocorrência em diversos biomas. Sua madeira é valorizada por sua durabilidade e beleza, sendo utilizada em construções e marcenaria. A árvore também possui potencial ornamental e é importante para a recuperação de áreas degradadas.",
+    "culturalNote": "Sua madeira resistente é um símbolo da força da flora brasileira.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Amendoim-bravo",
+    "imageCredit": "Wikimedia Commons / Mauroguanandi / CC BY-SA 3.0"
+  },
+  {
+    "id": "goncalo-alves",
+    "name": "Gonçalo-alves",
+    "otherNames": [
+      "Chibatã",
+      "Aroeira-do-campo",
+      "Pau-gonçalves"
+    ],
+    "scientific": "Astronium fraxinifolium Schott",
+    "family": "Anacardiaceae",
+    "type": "Árvore",
+    "biome": "Amazônia, Cerrado, Mata Atlântica",
+    "region": "Norte, Nordeste, Centro-Oeste, Sudeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Trimestral com orgânico",
+    "soilType": "Variado, bem drenado",
+    "height": "8–12 m",
+    "flowerColor": "Branco-esverdeado",
+    "leafType": "Composta pinada, caduca",
+    "uses": [
+      "Madeireiro",
+      "Paisagismo",
+      "Sombra",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "madeira-de-lei",
+      "ornamental",
+      "cerrado"
+    ],
+    "description": "O Gonçalo-alves é uma árvore nativa do Brasil, encontrada em diversos biomas, conhecida por sua madeira de alta qualidade e beleza, muito utilizada na fabricação de móveis finos e em construções. É uma espécie importante para o paisagismo e reflorestamento.",
+    "culturalNote": "Sua madeira nobre é sinônimo de elegância e durabilidade na cultura brasileira.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Astronium_fraxinifolium",
+    "imageCredit": "Wikimedia Commons / Mateusbotanica2020 / CC BY-SA 4.0"
+  },
+  {
+    "id": "caviuna",
+    "name": "Caviúna",
+    "otherNames": [
+      "Jacarandá-do-cerrado",
+      "Cabiúna",
+      "Pau-preto"
+    ],
+    "scientific": "Dalbergia miscolobium Benth.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Cerrado",
+    "region": "Centro-Oeste, Sudeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Variado, bem drenado",
+    "height": "5–15 m",
+    "flowerColor": "Roxo",
+    "leafType": "Composta imparipinada, caduca",
+    "uses": [
+      "Madeireiro",
+      "Ornamental",
+      "Paisagismo"
+    ],
+    "tags": [
+      "nativa",
+      "cerrado",
+      "madeira",
+      "ornamental"
+    ],
+    "description": "A Caviúna é uma árvore nativa do Cerrado brasileiro, conhecida por sua madeira escura e resistente, utilizada em marcenaria e na fabricação de instrumentos musicais. Sua floração roxa confere um belo aspecto ornamental, sendo também empregada no paisagismo.",
+    "culturalNote": "Sua madeira é valorizada por sua beleza e resistência, um tesouro do Cerrado.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Dalbergia_miscolobium",
+    "imageCredit": "Wikimedia Commons / Mauroguanandi / CC BY-SA 3.0"
+  },
+  {
+    "id": "tatajuba",
+    "name": "Tatajuba",
+    "otherNames": [
+      "Bagaceira",
+      "Amaparana",
+      "Taraiko'i"
+    ],
+    "scientific": "Bagassa guianensis Aubl.",
+    "family": "Moraceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Mensal com NPK equilibrado",
+    "soilType": "Argiloso e úmido",
+    "height": "30–50 m",
+    "flowerColor": "Amarelo-esverdeado",
+    "leafType": "Simples, lobada, semidecídua",
+    "uses": [
+      "Madeireiro",
+      "Alimentar",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "amazonia",
+      "madeira-de-lei",
+      "frutífera",
+      "nativa"
+    ],
+    "description": "A Tatajuba é uma árvore imponente da Amazônia, conhecida por sua madeira amarela de alta qualidade e durabilidade, muito utilizada na construção civil e naval. Seus frutos são comestíveis e apreciados por animais e humanos. A árvore é importante para o reflorestamento e para a economia local.",
+    "culturalNote": "Seu nome tupi significa 'pau de fogo', remetendo ao uso indígena para iniciar chamas.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Tatajuba",
+    "imageCredit": "Wikimedia Commons / Fusée-Aublet / Domínio Público"
+  },
+  {
+    "id": "ayahuasca-cipo",
+    "name": "Ayahuasca-cipó",
+    "otherNames": [
+      "jagube",
+      "mariri",
+      "caapi"
+    ],
+    "scientific": "Banisteriopsis caapi (Spruce ex Griseb.) C.V.Morton",
+    "family": "Malpighiaceae",
+    "type": "Trepadeira",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Humoso e fértil",
+    "height": "até 30 m",
+    "flowerColor": "Brancas ou rosa pálido",
+    "leafType": "Simples, lobulada, venação pinada",
+    "uses": [
+      "Sagrado/Ritual",
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "psicoativa",
+      "trepadeira"
+    ],
+    "description": "Banisteriopsis caapi, conhecida como Ayahuasca-cipó, é uma trepadeira nativa da Amazônia brasileira, fundamental em rituais religiosos e na medicina tradicional. Sua importância cultural reside na preparação da bebida Ayahuasca, utilizada por diversas etnias indígenas. A planta cresce entrelaçando-se em outras, podendo atingir grandes comprimentos.",
+    "culturalNote": "Planta sagrada e medicinal, central em rituais de Ayahuasca na Amazônia.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Banisteriopsis_caapi",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "jurema-branca",
+    "name": "Jurema-branca",
+    "otherNames": [
+      "jurema-de-oeiras"
+    ],
+    "scientific": "Mimosa verrucosa Benth.",
+    "family": "Fabaceae",
+    "type": "Arbusto",
+    "biome": "Caatinga",
+    "region": "Nordeste",
+    "climate": "Semiárido",
+    "light": "Sol pleno",
+    "watering": "Mensal — tolerante à seca",
+    "fertilizing": "Não necessita",
+    "soilType": "Arenoso e bem drenado",
+    "height": "2-5 m",
+    "flowerColor": "Rosas",
+    "leafType": "Composta bipinada",
+    "uses": [
+      "Medicinal",
+      "Sagrado/Ritual"
+    ],
+    "tags": [
+      "nativa",
+      "caatinga",
+      "cerrado",
+      "xerófita"
+    ],
+    "description": "A Jurema-branca (Mimosa verrucosa) é um arbusto ou pequena árvore nativa do Nordeste brasileiro, encontrada na Caatinga e no Cerrado. É conhecida por sua adaptação a condições áridas e por seu uso tradicional em rituais indígenas e na medicina popular. Suas inflorescências rosadas e folhas compostas bipinadas são características marcantes.",
+    "culturalNote": "Planta de grande importância cultural e medicinal no Nordeste do Brasil.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Jurema-branca",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "umiri",
+    "name": "Umiri",
+    "otherNames": [],
+    "scientific": "Humiria balsamifera Aubl.",
+    "family": "Humiriaceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Humoso e fértil",
+    "height": "até 30 m",
+    "flowerColor": "Branco",
+    "leafType": "Coriácea perene",
+    "uses": [
+      "Madeireiro",
+      "Alimentar"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia"
+    ],
+    "description": "O Umiri (Humiria balsamifera) é uma árvore nativa da Amazônia, valorizada por sua madeira e frutos. É uma espécie de grande porte, adaptada a climas tropicais e solos férteis. Seus usos tradicionais incluem a produção de óleo e resina, além de ser uma fonte de alimento para a fauna local.",
+    "culturalNote": "Árvore amazônica com importância madeireira e alimentar.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Humiria_balsamifera",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "sucuuba",
+    "name": "Sucuúba",
+    "otherNames": [],
+    "scientific": "Himatanthus sucuuba (Spruce ex Müll.Arg.) Woodson",
+    "family": "Apocynaceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Humoso e fértil",
+    "height": "até 20 m",
+    "flowerColor": "Branco",
+    "leafType": "Simples lanceolada",
+    "uses": [
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "medicinal"
+    ],
+    "description": "A Sucuúba (Himatanthus sucuuba) é uma árvore nativa da região amazônica do Brasil, conhecida por suas propriedades medicinais. Sua casca e látex são tradicionalmente utilizados para tratar diversas enfermidades. É uma árvore de porte médio a grande, adaptada ao clima tropical da floresta.",
+    "culturalNote": "Árvore amazônica com látex medicinal, usada por comunidades locais.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Himatanthus_sucuuba",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "muirapuama",
+    "name": "Muirapuama",
+    "otherNames": [
+      "marapuama"
+    ],
+    "scientific": "Ptychopetalum olacoides Benth.",
+    "family": "Olacaceae",
+    "type": "Arbusto",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Humoso e fértil",
+    "height": "2-5 m",
+    "flowerColor": "Brancas",
+    "leafType": "Simples lanceolada",
+    "uses": [
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "medicinal",
+      "afrodisíaca",
+      "arbusto"
+    ],
+    "description": "A Muirapuama (Ptychopetalum olacoides) é um arbusto nativo da Amazônia brasileira, conhecido por suas propriedades medicinais e afrodisíacas. Suas flores brancas e perfumadas são características marcantes. É amplamente utilizada na medicina popular para tratar diversas condições, incluindo debilidade e impotência.",
+    "culturalNote": "Planta amazônica com reputação afrodisíaca e tônica.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Ptychopetalum_olacoides",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "catuaba",
+    "name": "Catuaba",
+    "otherNames": [],
+    "scientific": "Erythroxylum vacciniifolium Mart.",
+    "family": "Erythroxylaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Humoso e fértil",
+    "height": "2-4 m",
+    "flowerColor": "Amarelo e laranja",
+    "leafType": "Simples",
+    "uses": [],
+    "tags": [
+      "nativa",
+      "medicinal",
+      "afrodisíaca"
+    ],
+    "description": "A Catuaba (Erythroxylum vacciniifolium) é uma pequena árvore nativa do Brasil, conhecida por suas propriedades afrodisíacas e estimulantes. Suas flores amarelas e frutos ovais não comestíveis são características. É amplamente utilizada na medicina tradicional para tratar impotência, fadiga e problemas de memória.",
+    "culturalNote": "Famosa no Brasil por suas propriedades afrodisíacas e tônicas.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Erythroxylum_vacciniifolium",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "marapuama",
+    "name": "Marapuama",
+    "otherNames": [
+      "Muira puama",
+      "Potency Wood"
+    ],
+    "scientific": "Ptychopetalum uncinatum Anselmino",
+    "family": "Olacaceae",
+    "type": "Arbusto",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Humoso e fértil",
+    "height": "2-5 m",
+    "flowerColor": "Branco",
+    "leafType": "Simples lanceolada",
+    "uses": [
+      "Medicinal",
+      "Afrodisíaco"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "medicinal",
+      "afrodisíaca"
+    ],
+    "description": "A Marapuama (Ptychopetalum uncinatum) é um arbusto nativo da Amazônia, conhecido por suas propriedades medicinais e afrodisíacas. É utilizada na medicina tradicional para tratar fadiga, estresse e disfunções sexuais. A planta é valorizada por suas raízes e cascas, que são usadas em tônicos e extratos.",
+    "culturalNote": "Planta amazônica com reputação de tônico e afrodisíaco natural.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Ptychopetalum_uncinatum",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "timbo",
+    "name": "Timbó",
+    "otherNames": [],
+    "scientific": "Deguelia amazonica (Killip) A.M.G.Azevedo",
+    "family": "Fabaceae",
+    "type": "Trepadeira",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Humoso e fértil",
+    "height": "até 30 m",
+    "flowerColor": "Branco a rosa",
+    "leafType": "Composta pinada",
+    "uses": [
+      "Pesca",
+      "Inseticida"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "ictiotóxica",
+      "inseticida"
+    ],
+    "description": "O Timbó (Deguelia amazonica, sin. Derris amazonica) é uma trepadeira lenhosa nativa da Amazônia, conhecida por suas propriedades ictiotóxicas e inseticidas. Tradicionalmente utilizada por comunidades indígenas para a pesca, a planta possui compostos que paralisam peixes. Suas raízes são a principal fonte desses compostos.",
+    "culturalNote": "Planta amazônica usada tradicionalmente na pesca e como inseticida.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Derris_amazonica",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "pata-de-vaca",
+    "name": "Pata-de-vaca",
+    "otherNames": [
+      "casco-de-vaca",
+      "pata-de-boi",
+      "pata-de-vaca-branca"
+    ],
+    "scientific": "Bauhinia forficata Link",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Nordeste, Sudeste, Sul",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Humoso e fértil",
+    "height": "até 8 m",
+    "flowerColor": "Branco",
+    "leafType": "Simples, bilobada",
+    "uses": [
+      "Ornamental",
+      "Paisagismo",
+      "Medicinal",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "mata atlântica",
+      "medicinal",
+      "ornamental",
+      "pioneira"
+    ],
+    "description": "A Pata-de-vaca (Bauhinia forficata) é uma árvore nativa da Mata Atlântica e de outros biomas brasileiros, conhecida pelo formato peculiar de suas folhas, que lembram a pata de um bovino. É valorizada como planta ornamental e medicinal, sendo estudada por seu potencial no controle da diabetes. É uma espécie pioneira, importante na recuperação de áreas degradadas.",
+    "culturalNote": "Famosa por suas folhas em formato de pata de bovino e uso medicinal.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Pata-de-vaca",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "tiborna",
+    "name": "Tiborna",
+    "otherNames": [
+      "pacová-de-macaco",
+      "jacarandá-banana",
+      "jacarandá-de-sangue"
+    ],
+    "scientific": "Swartzia langsdorffii Raddi",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Sudeste",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Não necessita",
+    "soilType": "Humoso e fértil",
+    "height": "8–14 m",
+    "flowerColor": "Brancas",
+    "leafType": "Composta",
+    "uses": [
+      "Madeireiro",
+      "Construção civil",
+      "Marcenaria",
+      "Carpintaria"
+    ],
+    "tags": [
+      "nativa",
+      "mata atlântica",
+      "madeireira"
+    ],
+    "description": "A Tiborna (Swartzia langsdorffii) é uma árvore endêmica do Brasil, encontrada na Mata Atlântica, especialmente na região Sudeste. Conhecida popularmente como pacová-de-macaco, jacarandá-banana, entre outros, atinge de oito a catorze metros de altura. Sua madeira é valorizada na construção civil, marcenaria e carpintaria. Possui folhas compostas e flores brancas.",
+    "culturalNote": "Árvore nativa da Mata Atlântica, valorizada por sua madeira e usos diversos.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Swartzia_langsdorffii",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "cedro",
+    "name": "Cedro",
+    "otherNames": [
+      "Cedro-rosa",
+      "Cedro-cheiroso",
+      "Cedro-vermelho"
+    ],
+    "scientific": "Cedrela fissilis Vell.",
+    "family": "Meliaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Sul, Sudeste, Centro-Oeste",
+    "climate": "Subtropical",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Anual com orgânico",
+    "soilType": "Humoso, fértil e bem drenado",
+    "height": "até 35 m",
+    "flowerColor": "Branco-esverdeado",
+    "leafType": "Composta pinada, caduca",
+    "uses": [
+      "Madeireiro",
+      "Medicinal",
+      "Paisagismo",
+      "Reflorestamento",
+      "Artesanato"
+    ],
+    "tags": [
+      "nativa",
+      "madeira-de-lei",
+      "aromática",
+      "ameaçada",
+      "mata-atlantica"
+    ],
+    "description": "O Cedro, Cedrela fissilis, é uma das madeiras mais valorizadas da flora brasileira, conhecida pelo aroma característico que afasta insetos. Nativo da Mata Atlântica e de outras formações florestais, pode atingir 35 metros de altura com tronco robusto e copa ampla. Sua madeira avermelhada, leve e de fácil trabalhabilidade, foi amplamente usada na construção de móveis, barcos e instrumentos musicais. A espécie está ameaçada pela exploração histórica intensa.",
+    "culturalNote": "Madeira símbolo do Brasil colonial, usada em altares, móveis e instrumentos musicais.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Cedrela_fissilis",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "peroba-rosa",
+    "name": "Peroba-rosa",
+    "otherNames": [
+      "Peroba",
+      "Peroba-do-campo",
+      "Ibira-ro"
+    ],
+    "scientific": "Aspidosperma polyneuron Müll.Arg.",
+    "family": "Apocynaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Sul, Sudeste",
+    "climate": "Subtropical",
+    "light": "Sol pleno",
+    "watering": "Quinzenal",
+    "fertilizing": "Semestral com orgânico",
+    "soilType": "Argiloso, profundo e fértil",
+    "height": "até 40 m",
+    "flowerColor": "Amarelo-claro",
+    "leafType": "Simples, lanceolada, perene",
+    "uses": [
+      "Madeireiro",
+      "Paisagismo",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "madeira-de-lei",
+      "ameaçada",
+      "mata-atlantica",
+      "gigante"
+    ],
+    "description": "A Peroba-rosa, Aspidosperma polyneuron, é uma das maiores árvores da Mata Atlântica, podendo ultrapassar 40 metros de altura. Sua madeira, de coloração rosada a avermelhada, é considerada uma das mais nobres do Brasil, usada historicamente em construções, assoalhos e móveis de alto padrão. A espécie está criticamente ameaçada de extinção devido ao desmatamento extensivo da Mata Atlântica ao longo dos séculos XIX e XX.",
+    "culturalNote": "Símbolo da devastação da Mata Atlântica, sua raridade hoje é um alerta sobre o desmatamento.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Peroba-rosa",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "mogno",
+    "name": "Mogno",
+    "otherNames": [
+      "Mogno-brasileiro",
+      "Aguano",
+      "Caoba"
+    ],
+    "scientific": "Swietenia macrophylla King",
+    "family": "Meliaceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "Norte, Centro-Oeste",
+    "climate": "Equatorial",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Anual com NPK equilibrado",
+    "soilType": "Profundo, bem drenado, fértil",
+    "height": "até 60 m",
+    "flowerColor": "Branco-creme",
+    "leafType": "Composta pinada, caduca",
+    "uses": [
+      "Madeireiro",
+      "Reflorestamento",
+      "Paisagismo"
+    ],
+    "tags": [
+      "nativa",
+      "madeira-de-lei",
+      "amazônia",
+      "ameaçada",
+      "exportação"
+    ],
+    "description": "O Mogno, Swietenia macrophylla, é uma das madeiras tropicais mais valiosas do mundo, nativa da Amazônia brasileira. Pode atingir 60 metros de altura com tronco de até 2 metros de diâmetro. Sua madeira avermelhada, de textura fina e alta durabilidade, é cobiçada internacionalmente para móveis de luxo e instrumentos musicais. A exploração predatória levou à inclusão da espécie nos apêndices da CITES, com comércio internacional regulamentado.",
+    "culturalNote": "O mogno representa a riqueza e a exploração da Amazônia — símbolo de beleza e de conflito ambiental.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Mogno",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "pau-brasil",
+    "name": "Pau-brasil",
+    "otherNames": [
+      "Ibirapitanga",
+      "Orabutã",
+      "Pau-de-pernambuco"
+    ],
+    "scientific": "Paubrasilia echinata (Lam.) Gagnon, H.C.Lima & G.P.Lewis",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Nordeste, Sudeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Quinzenal",
+    "fertilizing": "Semestral com orgânico",
+    "soilType": "Arenoso a argiloso, bem drenado",
+    "height": "8–15 m",
+    "flowerColor": "Amarelo",
+    "leafType": "Composta bipinada",
+    "uses": [
+      "Madeireiro",
+      "Tintorial",
+      "Artesanato",
+      "Reflorestamento",
+      "Ornamental"
+    ],
+    "tags": [
+      "nativa",
+      "símbolo-nacional",
+      "ameaçada",
+      "mata-atlantica",
+      "história"
+    ],
+    "description": "O Pau-brasil, Paubrasilia echinata, é a árvore que deu nome ao país. Nativo da Mata Atlântica, seu cerne vermelho-sangue foi intensamente explorado pelos colonizadores portugueses para extração de tinta e fabricação de arcos de instrumentos musicais de corda. Essa exploração predatória quase extinguiu a espécie, que hoje é considerada em perigo. O pau-brasil é símbolo nacional e sua conservação representa a reconciliação do Brasil com sua própria história.",
+    "culturalNote": "Deu nome ao Brasil. Sua quase extinção é um espelho da relação histórica do país com seus recursos naturais.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Pau-brasil",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "jacaranda-da-bahia",
+    "name": "Jacarandá-da-bahia",
+    "otherNames": [
+      "Jacarandá-preto",
+      "Caviúna",
+      "Graúna"
+    ],
+    "scientific": "Dalbergia nigra (Vell.) Allemão ex Benth.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Mata Atlântica",
+    "region": "Nordeste (BA), Sudeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Quinzenal",
+    "fertilizing": "Anual com orgânico",
+    "soilType": "Argiloso, fértil e úmido",
+    "height": "até 30 m",
+    "flowerColor": "Lilás pálido",
+    "leafType": "Composta imparipinada",
+    "uses": [
+      "Madeireiro",
+      "Artesanato",
+      "Ornamental",
+      "Reflorestamento"
+    ],
+    "tags": [
+      "nativa",
+      "madeira-de-lei",
+      "ameaçada",
+      "mata-atlantica",
+      "luthieria"
+    ],
+    "description": "O Jacarandá-da-bahia, Dalbergia nigra, produz uma das madeiras mais belas e valorizadas do mundo — escura, de veios elegantes e aroma adocicado. Nativo da Mata Atlântica baiana, foi amplamente usado na marcenaria colonial brasileira, em móveis, instrumentos musicais e objetos de arte. A espécie está criticamente ameaçada e seu comércio internacional é proibido pela CITES. Sua raridade atual é um testemunho silencioso da devastação florestal do século XX.",
+    "culturalNote": "Madeira dos grandes móveis coloniais e dos violões brasileiros — hoje rara como uma joia.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Jacarand%C3%A1-da-bahia",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 3.0"
+  },
+  {
+    "id": "vinhatico",
+    "name": "Vinhático",
+    "otherNames": [
+      "Vinhático-do-cerrado",
+      "Amarelo",
+      "Gonçalo-alves-amarelo"
+    ],
+    "scientific": "Plathymenia reticulata Benth.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Cerrado, Mata Atlântica",
+    "region": "Centro-Oeste, Sudeste, Nordeste",
+    "climate": "Tropical",
+    "light": "Sol pleno",
+    "watering": "Quinzenal",
+    "fertilizing": "Semestral com orgânico",
+    "soilType": "Bem drenado, arenoso a argiloso",
+    "height": "10–25 m",
+    "flowerColor": "Branco-creme",
+    "leafType": "Composta bipinada, caduca",
+    "uses": [
+      "Madeireiro",
+      "Medicinal",
+      "Reflorestamento",
+      "Paisagismo"
+    ],
+    "tags": [
+      "nativa",
+      "cerrado",
+      "madeira-de-lei",
+      "caducifólia",
+      "medicinal"
+    ],
+    "description": "O Vinhático, Plathymenia reticulata, é uma árvore nativa do Cerrado e da Mata Atlântica, valorizada por sua madeira amarelada de boa resistência e trabalhabilidade. Sua casca possui propriedades medicinais, usada na medicina popular como anti-inflamatório. A espécie é caducifólia, perdendo as folhas na estação seca, e produz flores branco-creme que atraem polinizadores. É importante para o reflorestamento de áreas degradadas do Cerrado.",
+    "culturalNote": "Madeira tradicional do sertão, usada em construções rurais e na medicina popular do interior.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Plathymenia_reticulata",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "cumaru",
+    "name": "Cumaru",
+    "otherNames": [
+      "Cumaru-ferro",
+      "Tonka",
+      "Champanhe"
+    ],
+    "scientific": "Dipteryx odorata (Aubl.) Willd.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Sol pleno",
+    "watering": "Semanal",
+    "fertilizing": "Anual com orgânico",
+    "soilType": "Argiloso, fértil e úmido",
+    "height": "até 40 m",
+    "flowerColor": "Lilás-rosado",
+    "leafType": "Composta pinada, perene",
+    "uses": [
+      "Madeireiro",
+      "Alimentar",
+      "Aromaterapia",
+      "Artesanato",
+      "Medicinal"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "aromática",
+      "madeira-de-lei",
+      "exportação"
+    ],
+    "description": "O Cumaru, Dipteryx odorata, é uma árvore amazônica de grande porte cujas sementes — as 'favas-tonka' — possuem aroma intenso de baunilha e cumarina, usadas em perfumaria, confeitaria e medicina. Sua madeira, extremamente dura e resistente, é uma das mais densas do Brasil, usada em pisos, estruturas e exportada como 'Brazilian teak'. A espécie é importante para a fauna amazônica, com seus frutos consumidos por diversas espécies de animais.",
+    "culturalNote": "As favas-tonka do cumaru perfumam desde doces europeus até rituais indígenas amazônicos.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Cumaru",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "copaiba",
+    "name": "Copaíba",
+    "otherNames": [
+      "Copaibeira",
+      "Pau-de-óleo",
+      "Bálsamo-de-copaíba"
+    ],
+    "scientific": "Copaifera langsdorffii Desf.",
+    "family": "Fabaceae",
+    "type": "Árvore",
+    "biome": "Amazônia, Cerrado, Mata Atlântica",
+    "region": "Todo o Brasil",
+    "climate": "Tropical",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Quinzenal",
+    "fertilizing": "Anual com orgânico",
+    "soilType": "Variado, prefere solos úmidos e férteis",
+    "height": "até 40 m",
+    "flowerColor": "Branco",
+    "leafType": "Composta paripinada, perene",
+    "uses": [
+      "Medicinal",
+      "Aromaterapia",
+      "Madeireiro",
+      "Reflorestamento",
+      "Sagrado/Ritual"
+    ],
+    "tags": [
+      "nativa",
+      "medicinal",
+      "óleo-essencial",
+      "amazônia",
+      "cerrado"
+    ],
+    "description": "A Copaíba, Copaifera langsdorffii, é uma das árvores medicinais mais importantes da flora brasileira. Seu óleo-resina, extraído do tronco por incisão, possui comprovadas propriedades anti-inflamatórias, antibacterianas e cicatrizantes, sendo usado há séculos por povos indígenas e na medicina popular. A espécie é amplamente distribuída no Brasil e pode ser explorada de forma sustentável, tornando-a um símbolo de uso racional da floresta.",
+    "culturalNote": "O óleo de copaíba é um dos remédios mais antigos do Brasil, presente em farmácias desde o período colonial.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Copa%C3%ADba",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  },
+  {
+    "id": "andiroba",
+    "name": "Andiroba",
+    "otherNames": [
+      "Carapa",
+      "Iandirova",
+      "Cedro-do-igapó"
+    ],
+    "scientific": "Carapa guianensis Aubl.",
+    "family": "Meliaceae",
+    "type": "Árvore",
+    "biome": "Amazônia",
+    "region": "Norte",
+    "climate": "Equatorial",
+    "light": "Sol pleno a meia-sombra",
+    "watering": "Semanal",
+    "fertilizing": "Semestral com orgânico",
+    "soilType": "Úmido, argiloso, áreas de várzea",
+    "height": "até 30 m",
+    "flowerColor": "Branco-rosado",
+    "leafType": "Composta paripinada, perene",
+    "uses": [
+      "Medicinal",
+      "Cosmético",
+      "Madeireiro",
+      "Reflorestamento",
+      "Aromaterapia"
+    ],
+    "tags": [
+      "nativa",
+      "amazônia",
+      "medicinal",
+      "óleo-essencial",
+      "repelente"
+    ],
+    "description": "A Andiroba, Carapa guianensis, é uma árvore amazônica cujo óleo extraído das sementes é amplamente utilizado na medicina popular e na cosmética. Com propriedades anti-inflamatórias, repelentes e cicatrizantes, o óleo de andiroba é um dos produtos florestais não-madeireiros mais valorizados da Amazônia. Sua madeira, similar ao mogno, é usada na construção civil e marcenaria. A espécie é importante para comunidades ribeirinhas que a exploram de forma sustentável.",
+    "culturalNote": "O óleo de andiroba é um tesouro da Amazônia, usado de repelente natural a remédio por gerações de ribeirinhos.",
+    "wikiUrl": "https://pt.wikipedia.org/wiki/Andiroba",
+    "imageCredit": "Wikimedia Commons / CC BY-SA 4.0"
+  }
+]

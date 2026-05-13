@@ -1,0 +1,35 @@
+[
+  {
+    "id": "a-floresta-como-memoria",
+    "title": "A Floresta como Memória",
+    "subtitle": "Sobre o que as árvores guardam que os homens esquecem",
+    "author": "Arquivo Vivo",
+    "date": "2024",
+    "excerpt": "Cada árvore é um arquivo. Seus anéis de crescimento registram secas, enchentes, incêndios e abundâncias com uma precisão que nenhum cronista humano alcança.",
+    "content": "Cada árvore é um arquivo. Seus anéis de crescimento registram secas, enchentes, incêndios e abundâncias com uma precisão que nenhum cronista humano alcança. A dendrocronologia — a ciência que lê o tempo nas madeiras — consegue reconstruir séculos de clima a partir de um único tronco. O Jatobá que ainda cresce em alguma borda de mata pode ter visto a chegada dos colonizadores. A Araucária que resiste nos campos de altitude do Sul guarda em seus galhos a memória de um Brasil que existia antes de qualquer nome europeu.\n\nMas a memória das plantas não é apenas geológica. É também cultural. O Pau-brasil que deu nome ao país foi quase completamente apagado da paisagem costeira em menos de dois séculos de exploração. O que restou são indivíduos isolados, sobreviventes de uma floresta que foi transformada em tinta vermelha para tingir os tecidos da Europa renascentista. Cada exemplar vivo é um documento.\n\nDarcy Ribeiro escreveu que o Brasil é um povo que ainda não se encontrou. Talvez parte desse encontro passe pela reconexão com a flora que moldou a vida aqui por milênios — antes que a memória vegetal se apague junto com as últimas florestas.",
+    "tags": ["memória", "floresta", "história", "identidade"],
+    "imageUrl": ""
+  },
+  {
+    "id": "plantas-sagradas-do-brasil",
+    "title": "Plantas Sagradas do Brasil",
+    "subtitle": "Entre o ritual e a farmácia — o que a ciência aprendeu com os pajés",
+    "author": "Arquivo Vivo",
+    "date": "2024",
+    "excerpt": "A Jurema-preta, a Ayahuasca, a Gameleira — estas plantas habitam simultaneamente dois mundos: o da farmacologia moderna e o do sagrado ancestral.",
+    "content": "A Jurema-preta, a Ayahuasca, a Gameleira — estas plantas habitam simultaneamente dois mundos: o da farmacologia moderna e o do sagrado ancestral. Por décadas, a ciência ocidental ignorou ou criminalizou o conhecimento indígena sobre essas espécies. Hoje, pesquisadores de universidades brasileiras e internacionais correm para documentar o que os pajés sabem há gerações.\n\nA Ayahuasca, preparada a partir do cipó Banisteriopsis caapi combinado com folhas de Psychotria viridis, é talvez o exemplo mais estudado. Pesquisas recentes sugerem que seus compostos ativos têm potencial terapêutico para depressão, TEPT e dependência química. Mas o que os povos da Amazônia já sabiam — que a planta é uma ferramenta de cura e não apenas uma substância — levou séculos para ser reconhecido.\n\nA Gameleira, Ficus gomelleira, é outro caso fascinante. Árvore de grande porte, com raízes aéreas que descem dos galhos como cortinas, ela é considerada sagrada em diversas tradições afro-brasileiras. Seu tronco é ponto de encontro entre o mundo dos vivos e o dos ancestrais. A ciência ainda não sabe tudo o que o candomblé já sabia sobre ela.",
+    "tags": ["sagrado", "indígena", "farmacologia", "ritual", "amazônia"],
+    "imageUrl": ""
+  },
+  {
+    "id": "o-cerrado-invisivel",
+    "title": "O Cerrado Invisível",
+    "subtitle": "O bioma mais ameaçado do Brasil que ninguém vê",
+    "author": "Arquivo Vivo",
+    "date": "2024",
+    "excerpt": "O Cerrado é a savana mais biodiversa do planeta. Também é o bioma brasileiro que mais perdeu território nas últimas décadas — e o que recebe menos atenção.",
+    "content": "O Cerrado é a savana mais biodiversa do planeta. Também é o bioma brasileiro que mais perdeu território nas últimas décadas — e o que recebe menos atenção. Enquanto o desmatamento da Amazônia domina manchetes internacionais, o Cerrado perde silenciosamente mais de 1 milhão de hectares por ano, convertidos principalmente em soja e pastagem.\n\nO que se perde com isso vai muito além de números. O Pequi, o Baru, a Mangaba, a Cagaita, o Murici — frutas que alimentaram populações indígenas e quilombolas por milênios — dependem do Cerrado para existir. Suas raízes profundas, que podem atingir 15 metros de profundidade, são adaptações evolutivas a um regime de fogo e seca que a agricultura industrial simplesmente não tolera.\n\nO geógrafo Aziz Ab'Saber chamou o Cerrado de 'berço das águas'. Seus aquíferos alimentam as principais bacias hidrográficas do Brasil. Destruir o Cerrado é, em última análise, secar os rios. A invisibilidade política desse bioma é um dos maiores paradoxos ambientais do país.",
+    "tags": ["cerrado", "biodiversidade", "ameaça", "conservação", "água"],
+    "imageUrl": ""
+  }
+]
