@@ -59,7 +59,7 @@ function PlantCard({ plant }: { plant: Plant }) {
           className="absolute top-3 right-3 px-2.5 py-1 rounded-full text-xs font-medium"
           style={{ backgroundColor: 'rgba(0,0,0,0.5)', color: 'rgba(245,240,232,0.9)' }}
         >
-          {plant.biome?.split(',')[0].trim()}
+          {(typeof plant.biome === 'string' ? plant.biome : Array.isArray(plant.biome) ? (plant.biome as string[]).join(', ') : '').split(',')[0].trim()}
         </div>
       </div>
 
@@ -137,7 +137,7 @@ export default function Archive() {
   // Facetas
   const facets = useMemo(() => ({
     types: [...new Set(plants.map((p) => p.type))].sort(),
-    biomes: [...new Set(plants.map((p) => p.biome?.split(',')[0].trim()).filter(Boolean))].sort(),
+    biomes: [...new Set(plants.map((p) => (typeof p.biome === 'string' ? p.biome : Array.isArray(p.biome) ? (p.biome as unknown as string[]).join(', ') : '')).map(b => b.split(',')[0].trim()).filter(Boolean))].sort(),
     lights: [...new Set(plants.map((p) => p.light).filter(Boolean))].sort(),
     uses: [...new Set(plants.flatMap((p) => p.uses || []))].sort(),
     climates: [...new Set(plants.map((p) => p.climate).filter(Boolean))].sort(),
@@ -159,7 +159,7 @@ export default function Archive() {
       if (selectedType && p.type !== selectedType) return false;
       if (selectedBiome && !p.biome?.includes(selectedBiome)) return false;
       if (selectedLight && p.light !== selectedLight) return false;
-      if (selectedUse && !(p.uses || []).includes(selectedUse)) return false;
+      if (selectedUse && !(Array.isArray(p.uses) ? p.uses : typeof p.uses === 'string' ? (p.uses as unknown as string).split(',').map((u: string) => u.trim()) : []).includes(selectedUse)) return false;
       if (selectedClimate && p.climate !== selectedClimate) return false;
       return true;
     });

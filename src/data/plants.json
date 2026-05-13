@@ -1692,15 +1692,9 @@
     "scientific": "Euterpe precatoria",
     "family": "Arecaceae",
     "type": "Palmeira",
-    "biome": [
-      "Amazônia",
-      "Mata Atlântica"
-    ],
+    "biome": "Amazônia, Mata Atlântica",
     "region": "Norte, Nordeste, Centro-Oeste, Sudeste",
-    "climate": [
-      "Equatorial",
-      "Tropical"
-    ],
+    "climate": "Equatorial, Tropical",
     "light": "Meia-sombra a sol pleno",
     "watering": "Alta",
     "fertilizing": "Mensal com orgânico (em cultivo)",
@@ -1736,15 +1730,9 @@
     "scientific": "Bactris gasipaes",
     "family": "Arecaceae",
     "type": "Palmeira",
-    "biome": [
-      "Amazônia",
-      "Mata Atlântica"
-    ],
+    "biome": "Amazônia, Mata Atlântica",
     "region": "Norte, Nordeste, Centro-Oeste, Sudeste",
-    "climate": [
-      "Equatorial",
-      "Tropical"
-    ],
+    "climate": "Equatorial, Tropical",
     "light": "Sol pleno",
     "watering": "Regular",
     "fertilizing": "Trimestral com orgânico",
